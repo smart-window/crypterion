@@ -1,0 +1,10 @@
+public/*
+transactions/*
+ssr/*
+users/*
+chats/*
+!.gitignore
+geoip.mmdb
+license.json
+license
+!currencies.json

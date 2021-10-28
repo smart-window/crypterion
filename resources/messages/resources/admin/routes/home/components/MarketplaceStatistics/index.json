@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin.widget.marketplace_statistics",
+    "defaultMessage": "Marketplace Statistics"
+  },
+  {
+    "id": "admin.widget.marketplace_statistics.active_trades",
+    "defaultMessage": "{total} Active Trades"
+  },
+  {
+    "id": "admin.widget.marketplace_statistics.successful_trades",
+    "defaultMessage": "{total} Successful Trades"
+  },
+  {
+    "id": "admin.widget.marketplace_statistics.disputed_trades",
+    "defaultMessage": "{total} Disputed Trades"
+  },
+  {
+    "id": "admin.widget.marketplace_statistics.cancelled_trades",
+    "defaultMessage": "{total} Cancelled Trades"
+  },
+  {
+    "id": "admin.widget.marketplace_statistics.offers",
+    "defaultMessage": "{total} Offers"
+  }
+]

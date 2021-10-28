@@ -1,0 +1,6 @@
+[
+  {
+    "id": "admin.wallets.transaction_relayed_successful",
+    "defaultMessage": "Transaction was relayed successfully."
+  }
+]

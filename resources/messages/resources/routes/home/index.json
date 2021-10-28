@@ -1,0 +1,10 @@
+[
+  {
+    "id": "meta.title.home",
+    "defaultMessage": "Home | {name}"
+  },
+  {
+    "id": "common.layout_saved",
+    "defaultMessage": "Layout was saved."
+  }
+]

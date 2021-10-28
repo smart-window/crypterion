@@ -1,0 +1,6 @@
+[
+  {
+    "id": "admin.integration.oauth_create_account_successful",
+    "defaultMessage": "A new client has been created successfully."
+  }
+]

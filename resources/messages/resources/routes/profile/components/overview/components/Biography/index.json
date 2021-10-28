@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.biography",
+    "defaultMessage": "Biography"
+  },
+  {
+    "id": "profile.default_bio",
+    "defaultMessage": "Hey there! I trade here on this platform also."
+  }
+]

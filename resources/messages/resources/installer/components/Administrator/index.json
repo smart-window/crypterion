@@ -1,0 +1,26 @@
+[
+  {
+    "id": "installer.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "installer.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "installer.registered_successful",
+    "defaultMessage": "Registered Successfully!"
+  },
+  {
+    "id": "installer.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "installer.verify_password",
+    "defaultMessage": "Verify Password"
+  },
+  {
+    "id": "installer.invalid_username",
+    "defaultMessage": "Invalid username format."
+  }
+]

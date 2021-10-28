@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wallet.deposit_modal_title",
+    "defaultMessage": "Deposit {coin}"
+  },
+  {
+    "id": "wallet.deposit_modal_ok",
+    "defaultMessage": "Generate New Address"
+  },
+  {
+    "id": "wallet.deposit_confirmation_info",
+    "defaultMessage": "Depositing to the below address requires confirmations of the entire network. It will arrive after {confirmations} confirmations."
+  },
+  {
+    "id": "wallet.generate_new_address_warning",
+    "defaultMessage": "Receiving on multiple addresses will cause higher transaction fee on your next external transfer. You should only generate new address when you are receiving significant funds on it."
+  },
+  {
+    "id": "wallet.account_not_found",
+    "defaultMessage": "Account not found."
+  }
+]

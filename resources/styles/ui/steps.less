@@ -1,0 +1,105 @@
+/*Steps Styles*/
+.@{steps-prefix-cls}-item {
+  &-wait &-icon {
+    background-color: @steps-background;
+    border-color: @wait-icon-color;
+    > .@{steps-prefix-cls}-icon {
+      color: @wait-icon-color;
+      .@{steps-prefix-cls}-icon-dot {
+        background: @wait-icon-color;
+      }
+    }
+  }
+  &-wait > &-content > &-title {
+    color: @wait-title-color;
+    &::after {
+      background-color: @wait-tail-color;
+    }
+  }
+  &-wait > &-content > &-description {
+    color: @wait-description-color;
+  }
+  &-wait > &-tail::after {
+    background-color: @wait-tail-color;
+  }
+  
+  
+  &-process &-icon {
+    background-color: @steps-background;
+    border-color: @process-icon-color;
+    > .@{steps-prefix-cls}-icon {
+      color: @process-icon-color;
+      .@{steps-prefix-cls}-icon-dot {
+        background: @process-icon-color;
+      }
+    }
+  }
+  &-process > &-content > &-title {
+    color: @process-title-color;
+    &::after {
+      background-color: @process-tail-color;
+    }
+  }
+  &-process > &-content > &-description {
+    color: @process-description-color;
+  }
+  &-process > &-tail::after {
+    background-color: @process-tail-color;
+  }
+
+  &-process &-icon {
+    background: @process-icon-color;
+    > .@{steps-prefix-cls}-icon {
+      color: @process-icon-text-color;
+    }
+  }
+
+  &-finish &-icon {
+    background-color: @steps-background;
+    border-color: @finish-icon-color;
+    > .@{steps-prefix-cls}-icon {
+      color: @finish-icon-color;
+      .@{steps-prefix-cls}-icon-dot {
+        background: @finish-icon-color;
+      }
+    }
+  }
+  &-finish > &-content > &-title {
+    color: @finish-title-color;
+    &::after {
+      background-color: @finish-tail-color;
+    }
+  }
+  &-finish > &-content > &-description {
+    color: @finish-description-color;
+  }
+  &-finish > &-tail::after {
+    background-color: @finish-tail-color;
+  }
+
+  &-error &-icon {
+    background-color: @steps-background;
+    border-color: @error-icon-color;
+    > .@{steps-prefix-cls}-icon {
+      color: @error-icon-color;
+      .@{steps-prefix-cls}-icon-dot {
+        background: @error-icon-color;
+      }
+    }
+  }
+  &-error > &-content > &-title {
+    color: @error-title-color;
+    &::after {
+      background-color: @error-tail-color;
+    }
+  }
+  &-error > &-content > &-description {
+    color: @error-description-color;
+  }
+  &-error > &-tail::after {
+    background-color: @error-tail-color;
+  }
+}
+
+
+

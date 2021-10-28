@@ -1,0 +1,30 @@
+[
+  {
+    "id": "installer.license",
+    "defaultMessage": "License"
+  },
+  {
+    "id": "installer.requirements",
+    "defaultMessage": "Requirements"
+  },
+  {
+    "id": "installer.environment",
+    "defaultMessage": "Environment"
+  },
+  {
+    "id": "installer.administrator",
+    "defaultMessage": "Administrator"
+  },
+  {
+    "id": "installer.finish",
+    "defaultMessage": "Finish"
+  },
+  {
+    "id": "installer.https_recommended",
+    "defaultMessage": "HTTPS Connection is Highly Recommended."
+  },
+  {
+    "id": "installer.https_recommended_desc",
+    "defaultMessage": "You need to setup an SSL certificate with this domain on your server, and its automatic redirection to the HTTPS protocol."
+  }
+]

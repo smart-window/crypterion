@@ -1,0 +1,18 @@
+[
+  {
+    "id": "profile.input_password_placeholder",
+    "defaultMessage": "Enter your password..."
+  },
+  {
+    "id": "profile.input_new_password_placeholder",
+    "defaultMessage": "Enter a new password..."
+  },
+  {
+    "id": "profile.input_new_password_confirmation_placeholder",
+    "defaultMessage": "Confirm your new password..."
+  },
+  {
+    "id": "profile.password_action_successful",
+    "defaultMessage": "Your password was updated successfully!"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "common.user_greeting",
+    "defaultMessage": "Hi, {name}"
+  },
+  {
+    "id": "auth.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "auth.register",
+    "defaultMessage": "Register"
+  }
+]

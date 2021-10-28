@@ -1,0 +1,14 @@
+[
+  {
+    "id": "widget.marketplace_earnings_chart.month",
+    "defaultMessage": "Month"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "widget.marketplace_earnings_chart.amount",
+    "defaultMessage": "Amount"
+  }
+]

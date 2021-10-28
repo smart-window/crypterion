@@ -1,0 +1,34 @@
+[
+  {
+    "id": "installer.environment",
+    "defaultMessage": "Environment"
+  },
+  {
+    "id": "installer.sqlite_info",
+    "defaultMessage": "The database value for SQLLite should be the full path to the database file which is writable by the server"
+  },
+  {
+    "id": "installer.previous",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "installer.save",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "installer.about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "installer.environment_information_1",
+    "defaultMessage": "You are able to setup your environment values using this form. This attempts to update the {env} file directly. We advise that you make regular backup of this file in the event of a failure. You should make references to the official documentation on how to obtain the required environment details."
+  },
+  {
+    "id": "installer.environment_information_2",
+    "defaultMessage": "The {null} value can be used in the place of fields that are not applicable."
+  },
+  {
+    "id": "installer.documentation",
+    "defaultMessage": "Documentation"
+  }
+]

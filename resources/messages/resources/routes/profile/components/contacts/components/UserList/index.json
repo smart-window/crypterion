@@ -1,0 +1,14 @@
+[
+  {
+    "id": "profile.successful_trades",
+    "defaultMessage": "Successful Trades"
+  },
+  {
+    "id": "profile.offers",
+    "defaultMessage": "Offers"
+  },
+  {
+    "id": "profile.last_seen",
+    "defaultMessage": "Last Seen"
+  }
+]

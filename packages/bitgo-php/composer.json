@@ -1,0 +1,25 @@
+{
+    "name": "HolluwaTosin360/bitgo-php",
+    "description": "PHP Client for BitGo Express",
+    "keywords": [
+        "HolluwaTosin360",
+        "bitgo-express",
+        "bitgo-sdk"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0",
+        "symfony/process": "^3.0|^4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HolluwaTosin360\\BitGoPHP\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

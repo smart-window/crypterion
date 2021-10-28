@@ -1,0 +1,10 @@
+[
+  {
+    "id": "marketplace.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter your Two Factor code."
+  },
+  {
+    "id": "marketplace.input_password_placeholder",
+    "defaultMessage": "Enter your Password."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.page_not_found",
+    "defaultMessage": "Sorry, the page you visited does not exist."
+  },
+  {
+    "id": "common.back_home",
+    "defaultMessage": "Back Home"
+  }
+]

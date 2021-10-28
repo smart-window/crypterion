@@ -1,0 +1,46 @@
+[
+  {
+    "id": "admin.wallets.user",
+    "defaultMessage": "User"
+  },
+  {
+    "id": "admin.wallets.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "admin.wallets.available",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "admin.wallets.address",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "admin.wallets.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "admin.wallets.state",
+    "defaultMessage": "State"
+  },
+  {
+    "id": "admin.wallets.information",
+    "defaultMessage": "Information"
+  },
+  {
+    "id": "admin.wallets.pending_approval_action_notice",
+    "defaultMessage": "Action on a pending approval cannot be taking here, it needs to be done over Bitgo interface."
+  },
+  {
+    "id": "admin.wallets.pending_approval_balance_notice",
+    "defaultMessage": "The available balance shown on the table indicates the user's balance {after} sending the withdrawal request."
+  },
+  {
+    "id": "admin.wallets.pending_approval_rejection_notice",
+    "defaultMessage": "Users are not credited automatically after a withdrawal request is rejected, you will need to do that manually."
+  },
+  {
+    "id": "admin.wallets.pending_approval",
+    "defaultMessage": "Pending Approval"
+  }
+]

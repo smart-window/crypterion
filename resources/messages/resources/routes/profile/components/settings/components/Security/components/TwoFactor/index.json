@@ -1,0 +1,10 @@
+[
+  {
+    "id": "profile.two_factor",
+    "defaultMessage": "Two Factor"
+  },
+  {
+    "id": "profile.two_factor_add_device",
+    "defaultMessage": "Add Device"
+  }
+]

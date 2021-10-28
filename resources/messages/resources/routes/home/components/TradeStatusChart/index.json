@@ -1,0 +1,10 @@
+[
+  {
+    "id": "home.widget.marketplace_trade_chart",
+    "defaultMessage": "Trades Status Chart"
+  },
+  {
+    "id": "widget.trade_chart.no_marketplace_trade",
+    "defaultMessage": "No Marketplace Trade Yet."
+  }
+]

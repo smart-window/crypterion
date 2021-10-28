@@ -1,0 +1,10 @@
+[
+  {
+    "id": "wallet.distribution",
+    "defaultMessage": "Wallet Distribution"
+  },
+  {
+    "id": "wallet.no_wallet_balance",
+    "defaultMessage": "You have no wallet balance."
+  }
+]

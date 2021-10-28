@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.template",
+    "defaultMessage": "Template"
+  },
+  {
+    "id": "common.brand",
+    "defaultMessage": "Brand"
+  },
+  {
+    "id": "common.page",
+    "defaultMessage": "Page"
+  },
+  {
+    "id": "common.widgets",
+    "defaultMessage": "Widgets"
+  }
+]

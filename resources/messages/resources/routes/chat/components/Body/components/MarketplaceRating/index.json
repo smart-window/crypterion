@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.review_submitted_successful",
+    "defaultMessage": "You review has been submitted."
+  },
+  {
+    "id": "admin.textarea_review_placeholder",
+    "defaultMessage": "Write a review..."
+  }
+]

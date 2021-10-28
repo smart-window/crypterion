@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.overview",
+    "defaultMessage": "Overview"
+  },
+  {
+    "id": "common.pending-withdrawal",
+    "defaultMessage": "Pending Withdrawal"
+  },
+  {
+    "id": "common.transactions",
+    "defaultMessage": "Transactions"
+  },
+  {
+    "id": "common.earnings",
+    "defaultMessage": "Earnings"
+  }
+]

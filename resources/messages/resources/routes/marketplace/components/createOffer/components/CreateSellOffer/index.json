@@ -1,0 +1,10 @@
+[
+  {
+    "id": "create_offer.offer_created",
+    "defaultMessage": "Offer created successfully!."
+  },
+  {
+    "id": "create_offer.offer_updated",
+    "defaultMessage": "Offer updated successfully!."
+  }
+]

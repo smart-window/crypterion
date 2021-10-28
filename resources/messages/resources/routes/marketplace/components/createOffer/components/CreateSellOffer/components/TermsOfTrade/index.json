@@ -1,0 +1,14 @@
+[
+  {
+    "id": "create_offer.input_label_placeholder",
+    "defaultMessage": "Maximum of 25 characters..."
+  },
+  {
+    "id": "create_offer.sell_select_country_placeholder",
+    "defaultMessage": "Choose country of offer..."
+  },
+  {
+    "id": "create_offer.select_tags_placeholder",
+    "defaultMessage": "Select up to 3 tags..."
+  }
+]

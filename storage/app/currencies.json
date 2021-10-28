@@ -1,0 +1,2160 @@
+{
+    "AED": {
+        "name": "UAE Dirham",
+        "code": "AED",
+        "symbol": "\u062f\u0625\u200f",
+        "format": "\u062f\u0625\u200f 1,0.00",
+        "exchange_rate": 3.6732,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AFN": {
+        "name": "Afghanistan, Afghani",
+        "code": "AFN",
+        "symbol": "\u060b",
+        "format": "\u060b1,0.00",
+        "exchange_rate": 78.25001,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ALL": {
+        "name": "Albania, Lek",
+        "code": "ALL",
+        "symbol": "Lek",
+        "format": "1,0.00Lek",
+        "exchange_rate": 111.580864,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AMD": {
+        "name": "Armenian Dram",
+        "code": "AMD",
+        "symbol": "&#1423;",
+        "format": "1,0.00 &#1423;",
+        "exchange_rate": 477.951059,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ANG": {
+        "name": "Netherlands Antillian Guilder",
+        "code": "ANG",
+        "symbol": "\u0192",
+        "format": "\u01921,0.00",
+        "exchange_rate": 1.724878,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AOA": {
+        "name": "Angola, Kwanza",
+        "code": "AOA",
+        "symbol": "Kz",
+        "format": "Kz1,0.00",
+        "exchange_rate": 462.511,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ARS": {
+        "name": "Argentine Peso",
+        "code": "ARS",
+        "symbol": "$",
+        "format": "$ 1,0.00",
+        "exchange_rate": 59.6055,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AUD": {
+        "name": "Australian Dollar",
+        "code": "AUD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1.473417,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AWG": {
+        "name": "Aruban Guilder",
+        "code": "AWG",
+        "symbol": "\u0192",
+        "format": "\u01921,0.00",
+        "exchange_rate": 1.8,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "AZN": {
+        "name": "Azerbaijanian Manat",
+        "code": "AZN",
+        "symbol": "\u20bc",
+        "format": "1 0,00 \u20bc",
+        "exchange_rate": 1.7025,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BAM": {
+        "name": "Bosnia and Herzegovina, Convertible Marks",
+        "code": "BAM",
+        "symbol": "\u041a\u041c",
+        "format": "1,0.00 \u041a\u041c",
+        "exchange_rate": 1.779402,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BBD": {
+        "name": "Barbados Dollar",
+        "code": "BBD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 2,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BDT": {
+        "name": "Bangladesh, Taka",
+        "code": "BDT",
+        "symbol": "\u09f3",
+        "format": "\u09f3 1,0.",
+        "exchange_rate": 84.736928,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BGN": {
+        "name": "Bulgarian Lev",
+        "code": "BGN",
+        "symbol": "\u043b\u0432.",
+        "format": "1 0,00 \u043b\u0432.",
+        "exchange_rate": 1.7745,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BHD": {
+        "name": "Bahraini Dinar",
+        "code": "BHD",
+        "symbol": ".\u062f.",
+        "format": ".\u062f. 1,0.000",
+        "exchange_rate": 0.376949,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BIF": {
+        "name": "Burundi Franc",
+        "code": "BIF",
+        "symbol": "FBu",
+        "format": "1,0.FBu",
+        "exchange_rate": 1874.174847,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BMD": {
+        "name": "Bermudian Dollar",
+        "code": "BMD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BND": {
+        "name": "Brunei Dollar",
+        "code": "BND",
+        "symbol": "$",
+        "format": "$1,0.",
+        "exchange_rate": 1.362871,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BOB": {
+        "name": "Bolivia, Boliviano",
+        "code": "BOB",
+        "symbol": "Bs",
+        "format": "Bs 1,0.00",
+        "exchange_rate": 6.914343,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BRL": {
+        "name": "Brazilian Real",
+        "code": "BRL",
+        "symbol": "R$",
+        "format": "R$ 1,0.00",
+        "exchange_rate": 4.1958,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BSD": {
+        "name": "Bahamian Dollar",
+        "code": "BSD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BTN": {
+        "name": "Bhutan, Ngultrum",
+        "code": "BTN",
+        "symbol": "Nu.",
+        "format": "Nu. 1,0.0",
+        "exchange_rate": 71.917653,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BWP": {
+        "name": "Botswana, Pula",
+        "code": "BWP",
+        "symbol": "P",
+        "format": "P1,0.00",
+        "exchange_rate": 10.916162,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "BYR": {
+        "name": "Belarussian Ruble",
+        "code": "BYR",
+        "symbol": "\u0440.",
+        "format": "1 0,00 \u0440.",
+        "exchange_rate": 0,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": "2019-07-26 22:57:39"
+    },
+    "BZD": {
+        "name": "Belize Dollar",
+        "code": "BZD",
+        "symbol": "BZ$",
+        "format": "BZ$1,0.00",
+        "exchange_rate": 2.015466,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CAD": {
+        "name": "Canadian Dollar",
+        "code": "CAD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1.325004,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CDF": {
+        "name": "Franc Congolais",
+        "code": "CDF",
+        "symbol": "FC",
+        "format": "1,0.00FC",
+        "exchange_rate": 1664.922396,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:39",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CHF": {
+        "name": "Swiss Franc",
+        "code": "CHF",
+        "symbol": "CHF",
+        "format": "1'0.00 CHF",
+        "exchange_rate": 0.988822,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CLP": {
+        "name": "Chilean Peso",
+        "code": "CLP",
+        "symbol": "$",
+        "format": "$ 1,0.00",
+        "exchange_rate": 803.5,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CNY": {
+        "name": "China Yuan Renminbi",
+        "code": "CNY",
+        "symbol": "\u00a5",
+        "format": "\u00a51,0.00",
+        "exchange_rate": 7.0208,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "COP": {
+        "name": "Colombian Peso",
+        "code": "COP",
+        "symbol": "$",
+        "format": "$ 1,0.00",
+        "exchange_rate": 3418.586683,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CRC": {
+        "name": "Costa Rican Colon",
+        "code": "CRC",
+        "symbol": "\u20a1",
+        "format": "\u20a11,0.00",
+        "exchange_rate": 584.721252,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CUC": {
+        "name": "Cuban Convertible Peso",
+        "code": "CUC",
+        "symbol": "CUC",
+        "format": "CUC1,0.00",
+        "exchange_rate": 1,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CUP": {
+        "name": "Cuban Peso",
+        "code": "CUP",
+        "symbol": "$MN",
+        "format": "$MN1,0.00",
+        "exchange_rate": 25.75,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CVE": {
+        "name": "Cape Verde Escudo",
+        "code": "CVE",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 100.4,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "CZK": {
+        "name": "Czech Koruna",
+        "code": "CZK",
+        "symbol": "K\u010d",
+        "format": "1 0,00 K\u010d",
+        "exchange_rate": 23.2235,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "DJF": {
+        "name": "Djibouti Franc",
+        "code": "DJF",
+        "symbol": "Fdj",
+        "format": "1,0.Fdj",
+        "exchange_rate": 178,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "DKK": {
+        "name": "Danish Krone",
+        "code": "DKK",
+        "symbol": "kr.",
+        "format": "1 0,00 kr.",
+        "exchange_rate": 6.780685,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "DOP": {
+        "name": "Dominican Peso",
+        "code": "DOP",
+        "symbol": "RD$",
+        "format": "RD$1,0.00",
+        "exchange_rate": 52.815355,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "DZD": {
+        "name": "Algerian Dinar",
+        "code": "DZD",
+        "symbol": "\u062f.\u062c\u200f",
+        "format": "\u062f.\u062c\u200f 1,0.00",
+        "exchange_rate": 120.14476,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "EGP": {
+        "name": "Egyptian Pound",
+        "code": "EGP",
+        "symbol": "\u062c.\u0645",
+        "format": "\u062c.\u0645 1,0.00",
+        "exchange_rate": 16.1291,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ERN": {
+        "name": "Eritrea, Nakfa",
+        "code": "ERN",
+        "symbol": "Nfk",
+        "format": "1,0.00Nfk",
+        "exchange_rate": 14.999694,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ETB": {
+        "name": "Ethiopian Birr",
+        "code": "ETB",
+        "symbol": "ETB",
+        "format": "ETB1,0.00",
+        "exchange_rate": 29.75,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "EUR": {
+        "name": "Euro",
+        "code": "EUR",
+        "symbol": "\u20ac",
+        "format": "1.0,00 \u20ac",
+        "exchange_rate": 0.907429,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "FJD": {
+        "name": "Fiji Dollar",
+        "code": "FJD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 2.19355,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "FKP": {
+        "name": "Falkland Islands Pound",
+        "code": "FKP",
+        "symbol": "\u00a3",
+        "format": "\u00a31,0.00",
+        "exchange_rate": 0.776272,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GBP": {
+        "name": "Pound Sterling",
+        "code": "GBP",
+        "symbol": "\u00a3",
+        "format": "\u00a31,0.00",
+        "exchange_rate": 0.776272,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GEL": {
+        "name": "Georgia, Lari",
+        "code": "GEL",
+        "symbol": "Lari",
+        "format": "1 0,00 Lari",
+        "exchange_rate": 2.965,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GHS": {
+        "name": "Ghana Cedi",
+        "code": "GHS",
+        "symbol": "\u20b5",
+        "format": "\u20b51,0.00",
+        "exchange_rate": 5.524451,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GIP": {
+        "name": "Gibraltar Pound",
+        "code": "GIP",
+        "symbol": "\u00a3",
+        "format": "\u00a31,0.00",
+        "exchange_rate": 0.776272,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GMD": {
+        "name": "Gambia, Dalasi",
+        "code": "GMD",
+        "symbol": "D",
+        "format": "1,0.00D",
+        "exchange_rate": 51.225,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GTQ": {
+        "name": "Guatemala, Quetzal",
+        "code": "GTQ",
+        "symbol": "Q",
+        "format": "Q1,0.00",
+        "exchange_rate": 7.704226,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "GYD": {
+        "name": "Guyana Dollar",
+        "code": "GYD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 208.752212,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "HKD": {
+        "name": "Hong Kong Dollar",
+        "code": "HKD",
+        "symbol": "HK$",
+        "format": "HK$1,0.00",
+        "exchange_rate": 7.828206,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "HNL": {
+        "name": "Honduras, Lempira",
+        "code": "HNL",
+        "symbol": "L.",
+        "format": "L. 1,0.00",
+        "exchange_rate": 24.691623,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "HRK": {
+        "name": "Croatian Kuna",
+        "code": "HRK",
+        "symbol": "kn",
+        "format": "1,0.00 kn",
+        "exchange_rate": 6.7506,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "HTG": {
+        "name": "Haiti, Gourde",
+        "code": "HTG",
+        "symbol": "G",
+        "format": "G1,0.00",
+        "exchange_rate": 97.361606,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "HUF": {
+        "name": "Hungary, Forint",
+        "code": "HUF",
+        "symbol": "Ft",
+        "format": "1 0,00 Ft",
+        "exchange_rate": 303.3025,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "IDR": {
+        "name": "Indonesia, Rupiah",
+        "code": "IDR",
+        "symbol": "Rp",
+        "format": "Rp1,0.",
+        "exchange_rate": 14081.275009,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ILS": {
+        "name": "New Israeli Shekel",
+        "code": "ILS",
+        "symbol": "\u20aa",
+        "format": "\u20aa 1,0.00",
+        "exchange_rate": 3.48305,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "INR": {
+        "name": "Indian Rupee",
+        "code": "INR",
+        "symbol": "\u20b9",
+        "format": "1,0.00\u20b9",
+        "exchange_rate": 71.965696,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "IQD": {
+        "name": "Iraqi Dinar",
+        "code": "IQD",
+        "symbol": "\u062f.\u0639.\u200f",
+        "format": "\u062f.\u0639.\u200f 1,0.00",
+        "exchange_rate": 1192.215962,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "IRR": {
+        "name": "Iranian Rial",
+        "code": "IRR",
+        "symbol": "\ufdfc",
+        "format": "\ufdfc 1,0\/00",
+        "exchange_rate": 42105,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ISK": {
+        "name": "Iceland Krona",
+        "code": "ISK",
+        "symbol": "kr.",
+        "format": "1,0. kr.",
+        "exchange_rate": 123.319983,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "JMD": {
+        "name": "Jamaican Dollar",
+        "code": "JMD",
+        "symbol": "J$",
+        "format": "J$1,0.00",
+        "exchange_rate": 141.10631,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "JOD": {
+        "name": "Jordanian Dinar",
+        "code": "JOD",
+        "symbol": "\u062f.\u0627.\u200f",
+        "format": "\u062f.\u0627.\u200f 1,0.000",
+        "exchange_rate": 0.709,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:40",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "JPY": {
+        "name": "Japan, Yen",
+        "code": "JPY",
+        "symbol": "\u00a5",
+        "format": "\u00a51,0.",
+        "exchange_rate": 108.4965,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KES": {
+        "name": "Kenyan Shilling",
+        "code": "KES",
+        "symbol": "S",
+        "format": "S1,0.00",
+        "exchange_rate": 102.05,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KGS": {
+        "name": "Kyrgyzstan, Som",
+        "code": "KGS",
+        "symbol": "\u0441\u043e\u043c",
+        "format": "1 0-00 \u0441\u043e\u043c",
+        "exchange_rate": 69.66983,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KHR": {
+        "name": "Cambodia, Riel",
+        "code": "KHR",
+        "symbol": "\u17db",
+        "format": "1,0.\u17db",
+        "exchange_rate": 4059.143262,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KMF": {
+        "name": "Comoro Franc",
+        "code": "KMF",
+        "symbol": "CF",
+        "format": "1,0.00CF",
+        "exchange_rate": 446.84997,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KPW": {
+        "name": "North Korean Won",
+        "code": "KPW",
+        "symbol": "\u20a9",
+        "format": "\u20a91,0.",
+        "exchange_rate": 900,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KRW": {
+        "name": "South Korea, Won",
+        "code": "KRW",
+        "symbol": "\u20a9",
+        "format": "\u20a91,0.",
+        "exchange_rate": 1168.530034,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KWD": {
+        "name": "Kuwaiti Dinar",
+        "code": "KWD",
+        "symbol": "\u062f\u064a\u0646\u0627\u0631\u200e\u200e\u200f",
+        "format": "\u062f\u064a\u0646\u0627\u0631\u200e\u200e\u200f 1,0.000",
+        "exchange_rate": 0.303701,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KYD": {
+        "name": "Cayman Islands Dollar",
+        "code": "KYD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 0.83328,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "KZT": {
+        "name": "Kazakhstan, Tenge",
+        "code": "KZT",
+        "symbol": "\u20b8",
+        "format": "\u20b81 0-00",
+        "exchange_rate": 388.491374,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LAK": {
+        "name": "Laos, Kip",
+        "code": "LAK",
+        "symbol": "\u20ad",
+        "format": "1,0.\u20ad",
+        "exchange_rate": 8859.233666,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LBP": {
+        "name": "Lebanese Pound",
+        "code": "LBP",
+        "symbol": "\u0644.\u0644.\u200f",
+        "format": "\u0644.\u0644.\u200f 1,0.00",
+        "exchange_rate": 1512.438573,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LKR": {
+        "name": "Sri Lanka Rupee",
+        "code": "LKR",
+        "symbol": "\u20a8",
+        "format": "\u20a8 1,0.",
+        "exchange_rate": 180.382758,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LRD": {
+        "name": "Liberian Dollar",
+        "code": "LRD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 197.750054,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LSL": {
+        "name": "Lesotho, Loti",
+        "code": "LSL",
+        "symbol": "M",
+        "format": "1,0.00M",
+        "exchange_rate": 14.834049,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "LYD": {
+        "name": "Libyan Dinar",
+        "code": "LYD",
+        "symbol": "\u062f.\u0644.\u200f",
+        "format": "\u062f.\u0644.\u200f1,0.000",
+        "exchange_rate": 1.406471,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MAD": {
+        "name": "Moroccan Dirham",
+        "code": "MAD",
+        "symbol": "\u062f.\u0645.\u200f",
+        "format": "\u062f.\u0645.\u200f 1,0.00",
+        "exchange_rate": 9.685385,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MDL": {
+        "name": "Moldovan Leu",
+        "code": "MDL",
+        "symbol": "lei",
+        "format": "1,0.00 lei",
+        "exchange_rate": 17.527046,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MGA": {
+        "name": "Malagasy Ariary",
+        "code": "MGA",
+        "symbol": "Ar",
+        "format": "Ar1,0.",
+        "exchange_rate": 3737.991923,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MKD": {
+        "name": "Macedonia, Denar",
+        "code": "MKD",
+        "symbol": "\u0434\u0435\u043d.",
+        "format": "1,0.00 \u0434\u0435\u043d.",
+        "exchange_rate": 55.909965,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MMK": {
+        "name": "Myanmar, Kyat",
+        "code": "MMK",
+        "symbol": "K",
+        "format": "K1,0.00",
+        "exchange_rate": 1515.853562,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MNT": {
+        "name": "Mongolia, Tugrik",
+        "code": "MNT",
+        "symbol": "\u20ae",
+        "format": "\u20ae1 0,00",
+        "exchange_rate": 2684.165345,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MOP": {
+        "name": "Macao, Pataca",
+        "code": "MOP",
+        "symbol": "MOP$",
+        "format": "MOP$1,0.00",
+        "exchange_rate": 8.06314,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MRO": {
+        "name": "Mauritania, Ouguiya",
+        "code": "MRO",
+        "symbol": "UM",
+        "format": "1,0.00UM",
+        "exchange_rate": 357,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MTL": {
+        "name": "Maltese Lira",
+        "code": "MTL",
+        "symbol": "\u20a4",
+        "format": "\u20a41,0.00",
+        "exchange_rate": 0,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": "2019-07-26 22:57:41"
+    },
+    "MUR": {
+        "name": "Mauritius Rupee",
+        "code": "MUR",
+        "symbol": "\u20a8",
+        "format": "\u20a81,0.00",
+        "exchange_rate": 36.651377,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MVR": {
+        "name": "Maldives, Rufiyaa",
+        "code": "MVR",
+        "symbol": "MVR",
+        "format": "1,0.0 MVR",
+        "exchange_rate": 15.45,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MWK": {
+        "name": "Malawi, Kwacha",
+        "code": "MWK",
+        "symbol": "MK",
+        "format": "MK1,0.00",
+        "exchange_rate": 735.05533,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MXN": {
+        "name": "Mexican Peso",
+        "code": "MXN",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 19.3275,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MYR": {
+        "name": "Malaysian Ringgit",
+        "code": "MYR",
+        "symbol": "RM",
+        "format": "RM1,0.00",
+        "exchange_rate": 4.1625,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "MZN": {
+        "name": "Mozambique Metical",
+        "code": "MZN",
+        "symbol": "MT",
+        "format": "MT1,0.",
+        "exchange_rate": 63.350004,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NAD": {
+        "name": "Namibian Dollar",
+        "code": "NAD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 14.836549,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NGN": {
+        "name": "Nigeria, Naira",
+        "code": "NGN",
+        "symbol": "\u20a6",
+        "format": "\u20a61,0.00",
+        "exchange_rate": 362.029943,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NIO": {
+        "name": "Nicaragua, Cordoba Oro",
+        "code": "NIO",
+        "symbol": "C$",
+        "format": "C$ 1,0.00",
+        "exchange_rate": 33.827794,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NOK": {
+        "name": "Norwegian Krone",
+        "code": "NOK",
+        "symbol": "kr",
+        "format": "1.0,00 kr",
+        "exchange_rate": 9.167569,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NPR": {
+        "name": "Nepalese Rupee",
+        "code": "NPR",
+        "symbol": "\u20a8",
+        "format": "\u20a81,0.00",
+        "exchange_rate": 115.067998,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "NZD": {
+        "name": "New Zealand Dollar",
+        "code": "NZD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1.567214,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "OMR": {
+        "name": "Rial Omani",
+        "code": "OMR",
+        "symbol": "\ufdfc",
+        "format": "\ufdfc 1,0.000",
+        "exchange_rate": 0.384989,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:41",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PAB": {
+        "name": "Panama, Balboa",
+        "code": "PAB",
+        "symbol": "B\/.",
+        "format": "B\/. 1,0.00",
+        "exchange_rate": 1,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PEN": {
+        "name": "Peru, Nuevo Sol",
+        "code": "PEN",
+        "symbol": "S\/.",
+        "format": "S\/. 1,0.00",
+        "exchange_rate": 3.388098,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PGK": {
+        "name": "Papua New Guinea, Kina",
+        "code": "PGK",
+        "symbol": "K",
+        "format": "K1,0.00",
+        "exchange_rate": 3.403903,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PHP": {
+        "name": "Philippine Peso",
+        "code": "PHP",
+        "symbol": "\u20b1",
+        "format": "\u20b11,0.00",
+        "exchange_rate": 50.7005,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PKR": {
+        "name": "Pakistan Rupee",
+        "code": "PKR",
+        "symbol": "\u20a8",
+        "format": "\u20a81,0.00",
+        "exchange_rate": 155.911008,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PLN": {
+        "name": "Poland, Zloty",
+        "code": "PLN",
+        "symbol": "z\u0142",
+        "format": "1 0,00 z\u0142",
+        "exchange_rate": 3.886623,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "PYG": {
+        "name": "Paraguay, Guarani",
+        "code": "PYG",
+        "symbol": "\u20b2",
+        "format": "\u20b2 1,0.00",
+        "exchange_rate": 6454.61848,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "QAR": {
+        "name": "Qatari Rial",
+        "code": "QAR",
+        "symbol": "\ufdfc",
+        "format": "\ufdfc 1,0.00",
+        "exchange_rate": 3.641,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "RON": {
+        "name": "Romania, New Leu",
+        "code": "RON",
+        "symbol": "lei",
+        "format": "1,0.00 lei",
+        "exchange_rate": 4.3254,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "RSD": {
+        "name": "Serbian Dinar",
+        "code": "RSD",
+        "symbol": "\u0414\u0438\u043d.",
+        "format": "1,0.00 \u0414\u0438\u043d.",
+        "exchange_rate": 106.615,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "RUB": {
+        "name": "Russian Ruble",
+        "code": "RUB",
+        "symbol": "\u20bd",
+        "format": "1 0,00 \u20bd",
+        "exchange_rate": 63.9279,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "RWF": {
+        "name": "Rwanda Franc",
+        "code": "RWF",
+        "symbol": "RWF",
+        "format": "RWF 1 0,00",
+        "exchange_rate": 932.315549,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SAR": {
+        "name": "Saudi Riyal",
+        "code": "SAR",
+        "symbol": "\ufdfc",
+        "format": "\ufdfc 1,0.00",
+        "exchange_rate": 3.749655,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SBD": {
+        "name": "Solomon Islands Dollar",
+        "code": "SBD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 8.302329,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SCR": {
+        "name": "Seychelles Rupee",
+        "code": "SCR",
+        "symbol": "\u20a8",
+        "format": "\u20a81,0.00",
+        "exchange_rate": 13.679611,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SDD": {
+        "name": "Sudanese Dinar",
+        "code": "SDD",
+        "symbol": "LSd",
+        "format": "1,0.00LSd",
+        "exchange_rate": 0,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": "2019-07-26 22:57:42"
+    },
+    "SEK": {
+        "name": "Swedish Krona",
+        "code": "SEK",
+        "symbol": "kr",
+        "format": "1 0,00 kr",
+        "exchange_rate": 9.679955,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SGD": {
+        "name": "Singapore Dollar",
+        "code": "SGD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1.361841,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SHP": {
+        "name": "Saint Helena Pound",
+        "code": "SHP",
+        "symbol": "\u00a3",
+        "format": "\u00a31,0.00",
+        "exchange_rate": 0.776272,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SLL": {
+        "name": "Sierra Leone, Leone",
+        "code": "SLL",
+        "symbol": "Le",
+        "format": "Le1,0.00",
+        "exchange_rate": 7438.043346,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SOS": {
+        "name": "Somali Shilling",
+        "code": "SOS",
+        "symbol": "S",
+        "format": "S1,0.00",
+        "exchange_rate": 579.068424,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SRD": {
+        "name": "Surinam Dollar",
+        "code": "SRD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 7.458,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "STD": {
+        "name": "Sao Tome and Principe, Dobra",
+        "code": "STD",
+        "symbol": "Db",
+        "format": "Db1,0.00",
+        "exchange_rate": 21560.79,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SVC": {
+        "name": "El Salvador Colon",
+        "code": "SVC",
+        "symbol": "\u20a1",
+        "format": "\u20a11,0.00",
+        "exchange_rate": 8.749488,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SYP": {
+        "name": "Syrian Pound",
+        "code": "SYP",
+        "symbol": "\u00a3",
+        "format": "\u00a3 1,0.00",
+        "exchange_rate": 515.060065,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "SZL": {
+        "name": "Swaziland, Lilangeni",
+        "code": "SZL",
+        "symbol": "E",
+        "format": "E1,0.00",
+        "exchange_rate": 14.835531,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "THB": {
+        "name": "Thailand, Baht",
+        "code": "THB",
+        "symbol": "\u0e3f",
+        "format": "\u0e3f1,0.00",
+        "exchange_rate": 30.206309,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TJS": {
+        "name": "Tajikistan, Somoni",
+        "code": "TJS",
+        "symbol": "TJS",
+        "format": "1 0;00 TJS",
+        "exchange_rate": 9.689033,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TMT": {
+        "name": "Turkmenistani New Manat",
+        "code": "TMT",
+        "symbol": "m",
+        "format": "1 0,m",
+        "exchange_rate": 3.5,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TND": {
+        "name": "Tunisian Dinar",
+        "code": "TND",
+        "symbol": "\u062f.\u062a.\u200f",
+        "format": "\u062f.\u062a.\u200f 1,0.000",
+        "exchange_rate": 2.845,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TOP": {
+        "name": "Tonga, Paanga",
+        "code": "TOP",
+        "symbol": "T$",
+        "format": "T$1,0.00",
+        "exchange_rate": 2.316522,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TRY": {
+        "name": "Turkish Lira",
+        "code": "TRY",
+        "symbol": "TL",
+        "format": "\u20ba1,0.00",
+        "exchange_rate": 5.75042,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TTD": {
+        "name": "Trinidad and Tobago Dollar",
+        "code": "TTD",
+        "symbol": "TT$",
+        "format": "TT$1,0.00",
+        "exchange_rate": 6.775872,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TWD": {
+        "name": "New Taiwan Dollar",
+        "code": "TWD",
+        "symbol": "NT$",
+        "format": "NT$1,0.00",
+        "exchange_rate": 30.444999,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "TZS": {
+        "name": "Tanzanian Shilling",
+        "code": "TZS",
+        "symbol": "TSh",
+        "format": "TSh1,0.00",
+        "exchange_rate": 2304.711636,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "UAH": {
+        "name": "Ukraine, Hryvnia",
+        "code": "UAH",
+        "symbol": "\u20b4",
+        "format": "1 0,00\u20b4",
+        "exchange_rate": 24.23509,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "UGX": {
+        "name": "Uganda Shilling",
+        "code": "UGX",
+        "symbol": "USh",
+        "format": "USh1,0.00",
+        "exchange_rate": 3694.694888,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:42",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "USD": {
+        "name": "US Dollar",
+        "code": "USD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 1,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "UYU": {
+        "name": "Peso Uruguayo",
+        "code": "UYU",
+        "symbol": "$U",
+        "format": "$U 1,0.00",
+        "exchange_rate": 37.579483,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "UZS": {
+        "name": "Uzbekistan Sum",
+        "code": "UZS",
+        "symbol": "\u0441\u045e\u043c",
+        "format": "1 0,00 \u0441\u045e\u043c",
+        "exchange_rate": 9495.434754,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "VEF": {
+        "name": "Venezuela Bolivares Fuertes",
+        "code": "VEF",
+        "symbol": "Bs. F.",
+        "format": "Bs. F. 1,0.00",
+        "exchange_rate": 248487.642241,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "VND": {
+        "name": "Viet Nam, Dong",
+        "code": "VND",
+        "symbol": "\u20ab",
+        "format": "1,0.0 \u20ab",
+        "exchange_rate": 23139.062411,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "VUV": {
+        "name": "Vanuatu, Vatu",
+        "code": "VUV",
+        "symbol": "VT",
+        "format": "1,0.VT",
+        "exchange_rate": 116.177181,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "WST": {
+        "name": "Samoa, Tala",
+        "code": "WST",
+        "symbol": "WS$",
+        "format": "WS$1,0.00",
+        "exchange_rate": 2.640796,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "XAF": {
+        "name": "Franc CFA (XAF)",
+        "code": "XAF",
+        "symbol": "F.CFA",
+        "format": "1,0.00 F.CFA",
+        "exchange_rate": 595.234478,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "XCD": {
+        "name": "East Caribbean Dollar",
+        "code": "XCD",
+        "symbol": "$",
+        "format": "$1,0.00",
+        "exchange_rate": 2.70255,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "XOF": {
+        "name": "Franc CFA (XOF)",
+        "code": "XOF",
+        "symbol": "F.CFA",
+        "format": "1,0.00 F.CFA",
+        "exchange_rate": 595.234478,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "XPF": {
+        "name": "CFP Franc",
+        "code": "XPF",
+        "symbol": "F",
+        "format": "1,0.00F",
+        "exchange_rate": 108.285097,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "YER": {
+        "name": "Yemeni Rial",
+        "code": "YER",
+        "symbol": "\ufdfc",
+        "format": "\ufdfc 1,0.00",
+        "exchange_rate": 250.300053,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ZAR": {
+        "name": "South Africa, Rand",
+        "code": "ZAR",
+        "symbol": "R",
+        "format": "R 1,0.00",
+        "exchange_rate": 14.824,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    "ZMW": {
+        "name": "Zambia Kwacha",
+        "code": "ZMW",
+        "symbol": "ZK",
+        "format": "ZK1,0.00",
+        "exchange_rate": 14.003639,
+        "active": 0,
+        "created_at": "2019-07-26 22:57:43",
+        "updated_at": {
+            "date": "2019-11-15 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    }
+}

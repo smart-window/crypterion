@@ -1,0 +1,42 @@
+[
+  {
+    "id": "common.buyer",
+    "defaultMessage": "Buyer"
+  },
+  {
+    "id": "common.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "common.payment",
+    "defaultMessage": "Payment"
+  },
+  {
+    "id": "common.range",
+    "defaultMessage": "Range"
+  },
+  {
+    "id": "common.to",
+    "defaultMessage": "To"
+  },
+  {
+    "id": "common.rate",
+    "defaultMessage": "Rate"
+  },
+  {
+    "id": "common.margin",
+    "defaultMessage": "Margin"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "common.sell",
+    "defaultMessage": "Sell"
+  },
+  {
+    "id": "home.widget.marketplace_sell_offers",
+    "defaultMessage": "Sell Offers"
+  }
+]

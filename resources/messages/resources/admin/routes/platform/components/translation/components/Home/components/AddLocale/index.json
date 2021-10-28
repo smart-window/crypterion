@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.translation.input_locale_code_placeholder",
+    "defaultMessage": "Enter a valid locale ISO-2 code..."
+  },
+  {
+    "id": "admin.translation.locale_added_successfully",
+    "defaultMessage": "Locale added successfully."
+  }
+]

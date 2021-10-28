@@ -1,0 +1,14 @@
+[
+  {
+    "id": "create_offer.sell_select_payment_method_placeholder",
+    "defaultMessage": "Select payment method..."
+  },
+  {
+    "id": "create_offer.sell_select_currency_placeholder",
+    "defaultMessage": "Select currency..."
+  },
+  {
+    "id": "create_offer.sell_select_wallet_account_placeholder",
+    "defaultMessage": "Select wallet account..."
+  }
+]

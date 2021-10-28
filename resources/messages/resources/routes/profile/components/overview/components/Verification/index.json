@@ -1,0 +1,14 @@
+[
+  {
+    "id": "common.phone_verification",
+    "defaultMessage": "Phone Verification"
+  },
+  {
+    "id": "common.email_verification",
+    "defaultMessage": "Email Verification"
+  },
+  {
+    "id": "common.verification",
+    "defaultMessage": "Verification"
+  }
+]

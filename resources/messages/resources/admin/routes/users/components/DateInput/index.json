@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.users.invalid_date_input_message",
+    "defaultMessage": "Please enter a valid date."
+  },
+  {
+    "id": "admin.users.date_input_placeholder",
+    "defaultMessage": "Choose date..."
+  }
+]

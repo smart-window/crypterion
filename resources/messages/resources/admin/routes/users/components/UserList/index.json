@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin.inactive_until",
+    "defaultMessage": "Inactive Until"
+  },
+  {
+    "id": "admin.registered_on",
+    "defaultMessage": "Registered On"
+  },
+  {
+    "id": "common.email",
+    "defaultMessage": "Email"
+  }
+]

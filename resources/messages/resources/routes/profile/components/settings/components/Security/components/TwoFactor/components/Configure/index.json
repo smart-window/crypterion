@@ -1,0 +1,14 @@
+[
+  {
+    "id": "profile.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter two factor code..."
+  },
+  {
+    "id": "profile.input_password_placeholder",
+    "defaultMessage": "Enter your password..."
+  },
+  {
+    "id": "profile.two_factor_configure_action_successful",
+    "defaultMessage": "Your Two Factor settings was updated successfully!"
+  }
+]

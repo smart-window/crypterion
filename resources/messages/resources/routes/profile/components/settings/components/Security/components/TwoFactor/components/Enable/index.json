@@ -1,0 +1,10 @@
+[
+  {
+    "id": "profile.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter two factor code..."
+  },
+  {
+    "id": "profile.two_factor_enable_action_successful",
+    "defaultMessage": "Two Factor was enabled successfully."
+  }
+]

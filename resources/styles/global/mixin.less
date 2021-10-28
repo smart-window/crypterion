@@ -1,0 +1,82 @@
+// Flexbox display
+.flex-display(@display: flex, @direction: row, @wrap: wrap) {
+  display: @display;
+  flex-direction: @direction;
+  flex-wrap: @wrap;
+}
+
+// Flex Direction and Wrap
+.flex-flow(@flow) {
+  flex-flow: @flow;
+}
+
+// Display Order
+.flex-order(@order: 0) {
+  order: @order;
+}
+
+// Flex  - applies to: flex items
+.flex(@flex-grow: 0, @flex-shrink: 1, @flex-basis: auto) {
+  flex: @flex-grow @flex-shrink @flex-basis;
+}
+
+.flex-only(@flex-only) {
+  flex: @flex-only;
+}
+
+// Axis Alignment
+// flex-start | flex-end | center | space-between | space-around
+.justify-content(@justify: flex-start) {
+  justify-content: @justify;
+}
+
+// Packing Flex Lines
+// flex-start | flex-end | center | space-between | space-around | stretch
+.align-content(@align: stretch) {
+  align-content: @align;
+}
+
+// Cross-axis Alignment
+// flex-start | flex-end | center | baseline | stretch
+.align-items(@align: stretch) {
+  align-items: @align;
+}
+
+// Cross-axis Alignment
+// auto | flex-start | flex-end | center | baseline | stretch
+.align-self(@align: auto) {
+  align-self: @align;
+}
+
+//Vertical Gradient
+.vertical-gradient (@start: @orange-6, @end: @red-6) {
+  background-color: @start;
+  background-image: linear-gradient(to bottom, @start, @end);
+}
+
+//Horizontal Gradient
+.horizontal-gradient (@start: @orange-6, @end: @red-6) {
+  background-color: @start;
+  background-image: linear-gradient(to right, @start, @end);
+}
+
+//Corner Left Gradient
+.corner-left-gradient (@start: @cyan-6, @end: @blue-8) {
+  background-color: @start;
+  background-image: linear-gradient(to bottom right, @start, @end);
+}
+
+// Rotate
+.rotate(@deg) {
+  transform: rotate(@deg);
+}
+
+// Scale
+.scale(@factor) {
+  transform: scale(@factor);
+}
+
+// Translate
+.translate(@factor, @factor) {
+  transform: translate(@factor, @factor);
+}

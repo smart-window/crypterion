@@ -1,0 +1,6 @@
+[
+  {
+    "id": "admin.marketplace.create_payment_method_successful",
+    "defaultMessage": "A new payment method was created successfully."
+  }
+]

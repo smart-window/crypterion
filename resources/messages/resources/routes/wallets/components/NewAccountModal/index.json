@@ -1,0 +1,10 @@
+[
+  {
+    "id": "wallet.wallet_select_placeholder",
+    "defaultMessage": "Select a wallet..."
+  },
+  {
+    "id": "wallet.added_account_successfully",
+    "defaultMessage": "Your account has been added successfully."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wallet.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "wallet.available",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "wallet.on_trade",
+    "defaultMessage": "On Trade"
+  },
+  {
+    "id": "wallet.valuation",
+    "defaultMessage": "Valuation"
+  },
+  {
+    "id": "table.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "wallet.deposit",
+    "defaultMessage": "Deposit"
+  },
+  {
+    "id": "wallet.withdraw",
+    "defaultMessage": "Withdraw"
+  },
+  {
+    "id": "wallet.account_list",
+    "defaultMessage": "Accounts List"
+  },
+  {
+    "id": "wallet.currency_highlight",
+    "defaultMessage": "Currency ({currency})"
+  }
+]

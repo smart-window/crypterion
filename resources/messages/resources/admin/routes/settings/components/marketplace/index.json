@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.payment",
+    "defaultMessage": "Payment"
+  },
+  {
+    "id": "common.offer_tags",
+    "defaultMessage": "Offer Tags"
+  }
+]

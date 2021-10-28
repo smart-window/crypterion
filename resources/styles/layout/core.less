@@ -1,0 +1,178 @@
+/* Ant Layout Style */
+.ant-layout {
+  //position: relative;
+  //background: none;
+
+  & > .@{class-prefix}-fixed-sidebar {
+    position: fixed;
+    z-index: 900;
+  }
+
+  & > .@{class-prefix}-layout-content {
+    // overflow-x: hidden;
+    .flex-display(flex, column, nowrap);
+
+    //.full-scroll & {
+    //  overflow-x: inherit;
+    //}
+  }
+
+  .ant-layout-sider {
+    &.@{class-prefix}-fixed-sidebar {
+      & + .ant-layout {
+        //position: relative;
+        margin-left: @sidebar-width;
+        background: @body-background;
+      }
+
+      &.ant-layout-sider-collapsed + .ant-layout {
+        margin-left: @sidebar-mini-drawer-width;
+      }
+    }
+  }
+
+  .framed-layout &,
+  .boxed-layout & {
+    background: @body-background;
+  }
+
+  .framed-layout &,
+  .boxed-layout & {
+    background: @body-background;
+  }
+
+  &.@{class-prefix}-app-layout {
+    // height: 100vh;
+
+    //.framed-layout & {
+    //  height: calc(100vh~"-"2 * @framed-layout-base);
+    //
+    //  @media screen and (max-width: @screen-md-max) {
+    //    height: 100vh;
+    //  }
+    //}
+
+    //.framed-layout.full-scroll &,
+    //.boxed-layout.full-scroll & {
+    //  // overflow-y: auto;
+    //}
+
+    //& > .ant-layout {
+    //  // height: 100vh;
+    //
+    //  .framed-layout & {
+    //    height: calc(100vh~"-"2 * @framed-layout-base);
+    //
+    //    @media screen and (max-width: @screen-md-max) {
+    //      height: 100vh;
+    //    }
+    //  }
+    //}
+  }
+}
+
+.@{class-prefix}-main-content-wrapper {
+  min-height: calc(100vh~"-"@layout-header-height + @layout-footer-height);
+  //min-height: 100vh;
+  padding: @layout-main-content-padding @layout-main-content-padding 0;
+  flex: 1;
+  position: relative;
+
+  @media screen and (min-width: @screen-lg-min) {
+    .framed-layout & {
+      min-height: calc(100vh~"-"@layout-header-height + @layout-footer-height + 2 * @framed-layout-base);
+    }
+  }
+
+  @media screen and (max-width: @screen-xs-max) {
+    min-height: calc(100vh~"-"@layout-header-height-xs + @layout-footer-height);
+    padding: (@layout-main-content-padding-xs + 5px) @layout-main-content-padding-xs 0;
+  }
+
+  .@{class-prefix}-container-wrap & {
+    //width: 94vw;
+    //margin-left: auto;
+    //margin-right: auto;
+    //padding-left: 16px;
+    //padding-right: 16px;
+
+    //@media screen and (min-width: @screen-md-min) {
+    //  width: (@screen-md-min - 48); //720
+    //}
+
+    @media screen and (min-width: @screen-lg-min) {
+      margin-left: auto;
+      margin-right: auto;
+      width: (@screen-lg-min - 72); //920
+    }
+
+    @media screen and (min-width: @screen-xl-min) {
+      margin-left: auto;
+      margin-right: auto;
+      width: (@screen-xl-min - 100); //1100
+    }
+
+    @media screen and (min-width: (@screen-xl-min + 167px)) {
+      margin-left: auto;
+      margin-right: auto;
+      width: @screen-xl-min; //1200
+    }
+
+    @media screen and (min-width: @screen-xxl-min) {
+      margin-left: auto;
+      margin-right: auto;
+      width: (@screen-xxl-min - 200); //1400
+    }
+  }
+}
+
+.@{class-prefix}-container {
+  //width: 94vw; //320
+  //padding-left: 16px;
+  //padding-right: 16px;
+  //margin-left: auto;
+  //margin-right: auto;
+
+  //@media screen and (min-width: @screen-xs-min) {
+  //  width: (@screen-xs-min - 60); //420
+  //}
+  //
+  //@media screen and (min-width: @screen-sm-min) {
+  //  width: (@screen-sm-min - 56); //520
+  //}
+
+  //@media screen and (min-width: @screen-md-min) {
+  //  width: (@screen-md-min - 48); //720
+  //}
+
+  @media screen and (min-width: @screen-lg-min) {
+    margin-left: auto;
+    margin-right: auto;
+    width: (@screen-lg-min - 72); //920
+  }
+
+  @media screen and (min-width: @screen-xl-min) {
+    margin-left: auto;
+    margin-right: auto;
+    width: (@screen-xl-min - 100); //1100
+  }
+
+  @media screen and (min-width: (@screen-xl-min + 167px)) {
+    margin-left: auto;
+    margin-right: auto;
+    width: @screen-xl-min; //1200
+  }
+
+  @media screen and (min-width: @screen-xxl-min) {
+    margin-left: auto;
+    margin-right: auto;
+    width: (@screen-xxl-min - 200); //1400
+  }
+}
+
+//.@{class-prefix}-main-content {
+//  flex: 1;
+//  .flex-display(flex, column, nowrap);
+//  height: 100%;
+//}
+

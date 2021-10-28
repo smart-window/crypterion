@@ -1,0 +1,50 @@
+[
+  {
+    "id": "installer.server_requirements",
+    "defaultMessage": "Server Requirements"
+  },
+  {
+    "id": "installer.core",
+    "defaultMessage": "Core"
+  },
+  {
+    "id": "installer.php_requirements",
+    "defaultMessage": "PHP Requirements"
+  },
+  {
+    "id": "installer.writable_permissions",
+    "defaultMessage": "Writable Permissions"
+  },
+  {
+    "id": "installer.previous",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "installer.next",
+    "defaultMessage": "Next"
+  },
+  {
+    "id": "installer.refresh",
+    "defaultMessage": "Refresh"
+  },
+  {
+    "id": "installer.about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "installer.requirements_information",
+    "defaultMessage": "We need to validate a few server requirements for your installation to run properly."
+  },
+  {
+    "id": "installer.writable_permissions_info",
+    "defaultMessage": "Writable permissions for directories with the mark {mark} are checked {recursively}. You need to ensure that all files and folders within the specified directories are writable by the server"
+  },
+  {
+    "id": "installer.recursively",
+    "defaultMessage": "Recursively"
+  },
+  {
+    "id": "installer.documentation",
+    "defaultMessage": "Documentation"
+  }
+]

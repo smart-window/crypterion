@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.search_users_placeholder",
+    "defaultMessage": "Search users..."
+  },
+  {
+    "id": "admin.users_action_successful",
+    "defaultMessage": "Your action was successful."
+  }
+]

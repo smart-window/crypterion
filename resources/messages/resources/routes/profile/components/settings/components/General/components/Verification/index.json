@@ -1,0 +1,22 @@
+[
+  {
+    "id": "profile.invalid_phone",
+    "defaultMessage": "You phone is invalid!"
+  },
+  {
+    "id": "profile.verification_email_code_placeholder",
+    "defaultMessage": "Enter the code sent to your email..."
+  },
+  {
+    "id": "profile.verification_phone_code_placeholder",
+    "defaultMessage": "Enter the code sent to your phone..."
+  },
+  {
+    "id": "profile.token_required",
+    "defaultMessage": "Token is required to complete verification!"
+  },
+  {
+    "id": "profile.verification_action_successful",
+    "defaultMessage": "Your action was successful."
+  }
+]

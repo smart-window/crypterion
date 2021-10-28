@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.environment",
+    "defaultMessage": "Environment"
+  },
+  {
+    "id": "common.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "common.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "common.notification",
+    "defaultMessage": "Notification"
+  }
+]

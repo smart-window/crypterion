@@ -1,0 +1,14 @@
+[
+  {
+    "id": "chats.chat_not_found_title",
+    "defaultMessage": "Chat could not be found."
+  },
+  {
+    "id": "chat.show_chats",
+    "defaultMessage": "Show Chats"
+  },
+  {
+    "id": "chats.chat_not_found_sub_title",
+    "defaultMessage": "Please, select a new chat to display!"
+  }
+]

@@ -1,0 +1,16 @@
+version: '3'
+services:
+    application:
+        depends_on:
+            - bitgo
+    bitgo:
+        image: bitgosdk/express:latest
+        restart: unless-stopped
+        environment:
+            BITGO_ENV: '${BITGO_ENV:-test}'
+            BITGO_PORT: '${BITGO_PORT:-4000}'
+            BITGO_DISABLE_SSL: 1
+        networks:
+            - neoscrypts
+        healthcheck:
+            test: [ "CMD-SHELL", "curl -f localhost:${BITGO_PORT:-4000}/api/v2/ping || exit 1" ]

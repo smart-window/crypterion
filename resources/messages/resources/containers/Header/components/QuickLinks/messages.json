@@ -1,0 +1,22 @@
+[
+  {
+    "id": "common.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "common.trades",
+    "defaultMessage": "Trades"
+  },
+  {
+    "id": "common.notification",
+    "defaultMessage": "Notification"
+  },
+  {
+    "id": "common.chats",
+    "defaultMessage": "Chats"
+  },
+  {
+    "id": "common.contacts",
+    "defaultMessage": "Contacts"
+  }
+]

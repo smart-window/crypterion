@@ -1,0 +1,74 @@
+[
+  {
+    "id": "common.auth",
+    "defaultMessage": "Auth"
+  },
+  {
+    "id": "common.reset_password",
+    "defaultMessage": "Reset Password"
+  },
+  {
+    "id": "common.home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "common.wallets",
+    "defaultMessage": "Wallets"
+  },
+  {
+    "id": "common.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "common.buy_coin",
+    "defaultMessage": "Buy Coin"
+  },
+  {
+    "id": "common.sell_coin",
+    "defaultMessage": "Sell Coin"
+  },
+  {
+    "id": "common.create_offer",
+    "defaultMessage": "Create Offer"
+  },
+  {
+    "id": "common.offer",
+    "defaultMessage": "Offer"
+  },
+  {
+    "id": "common.chat list",
+    "defaultMessage": "Chat List"
+  },
+  {
+    "id": "common.chat",
+    "defaultMessage": "Chat"
+  },
+  {
+    "id": "common.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "common.contact",
+    "defaultMessage": "Contact"
+  },
+  {
+    "id": "common.offers",
+    "defaultMessage": "Offers"
+  },
+  {
+    "id": "common.settings",
+    "defaultMessage": "Settings"
+  },
+  {
+    "id": "common.trades",
+    "defaultMessage": "Trades"
+  },
+  {
+    "id": "common.moderation",
+    "defaultMessage": "Moderation"
+  },
+  {
+    "id": "common.disputed_trades",
+    "defaultMessage": "Disputed Trades"
+  }
+]

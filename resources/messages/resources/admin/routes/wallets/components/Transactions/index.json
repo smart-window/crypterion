@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin.wallets.user",
+    "defaultMessage": "User"
+  },
+  {
+    "id": "wallet.transaction_confirmed",
+    "defaultMessage": "confirmed"
+  },
+  {
+    "id": "wallet.transaction_unconfirmed",
+    "defaultMessage": "unconfirmed"
+  },
+  {
+    "id": "wallet.transfer_records",
+    "defaultMessage": "Transfer Records"
+  }
+]

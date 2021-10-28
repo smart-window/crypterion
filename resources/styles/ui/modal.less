@@ -1,0 +1,24 @@
+.ant-modal {
+  max-width: calc(84vw);
+
+  @media (max-width: @screen-xs-max) {
+    max-width: 100%;
+  }
+
+  margin: 8px auto;
+
+  & .ant-modal-body {
+    padding: 20px;
+  }
+
+  &.cp-login, &.cp-modal-sm{
+    @media (min-width: (@screen-xs-min - 120)) {
+      max-width: 360px;
+    }
+  }
+
+  @media (max-width: @screen-sm-min ) {
+    width: 100%;
+    padding: 0 10px;
+  }
+}

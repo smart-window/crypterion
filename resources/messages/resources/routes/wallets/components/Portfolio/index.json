@@ -1,0 +1,18 @@
+[
+  {
+    "id": "wallet.your_balance",
+    "defaultMessage": "Your Wallet Balance"
+  },
+  {
+    "id": "common.buy",
+    "defaultMessage": "Buy"
+  },
+  {
+    "id": "common.sell",
+    "defaultMessage": "Sell"
+  },
+  {
+    "id": "wallet.add_account",
+    "defaultMessage": "Add Account"
+  }
+]

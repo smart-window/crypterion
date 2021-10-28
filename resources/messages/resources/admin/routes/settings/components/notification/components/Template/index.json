@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "common.sms",
+    "defaultMessage": "SMS"
+  },
+  {
+    "id": "common.database",
+    "defaultMessage": "Database"
+  },
+  {
+    "id": "admin.notification.parameters",
+    "defaultMessage": "Parameters"
+  }
+]

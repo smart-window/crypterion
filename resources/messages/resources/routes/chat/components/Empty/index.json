@@ -1,0 +1,10 @@
+[
+  {
+    "id": "chat.select_to_begin",
+    "defaultMessage": "Select Chat to Begin!"
+  },
+  {
+    "id": "chat.show_chats",
+    "defaultMessage": "Show Chats"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "chats.message_deleted",
+    "defaultMessage": "Message Deleted"
+  },
+  {
+    "id": "chats.conversation",
+    "defaultMessage": "Conversation"
+  },
+  {
+    "id": "chats.cell_title",
+    "defaultMessage": "{user} and {total} other(s)"
+  },
+  {
+    "id": "common.me",
+    "defaultMessage": "Me"
+  },
+  {
+    "id": "common.unknown_user",
+    "defaultMessage": "Unknown User"
+  }
+]

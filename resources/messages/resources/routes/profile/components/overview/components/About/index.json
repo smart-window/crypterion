@@ -1,0 +1,34 @@
+[
+  {
+    "id": "common.about",
+    "defaultMessage": "About"
+  },
+  {
+    "id": "profile.registered_on",
+    "defaultMessage": "Registered on"
+  },
+  {
+    "id": "profile.successful_trades",
+    "defaultMessage": "Successful Trades"
+  },
+  {
+    "id": "profile.last_seen",
+    "defaultMessage": "Last Seen"
+  },
+  {
+    "id": "common.not_available",
+    "defaultMessage": "Not Available"
+  },
+  {
+    "id": "profile.trusted_by",
+    "defaultMessage": "Trusted By"
+  },
+  {
+    "id": "profile.blocked_by",
+    "defaultMessage": "Blocked By"
+  },
+  {
+    "id": "profile.trade_speed",
+    "defaultMessage": "Trade Speed"
+  }
+]

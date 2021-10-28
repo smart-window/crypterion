@@ -1,0 +1,38 @@
+[
+  {
+    "id": "create_offer.buy_input_margin_label",
+    "defaultMessage": "Margin"
+  },
+  {
+    "id": "create_offer.buy_input_margin_extra",
+    "defaultMessage": "The current market price is {marketPrice} while this offer will be sold for {price}"
+  },
+  {
+    "id": "create_offer.buy_input_min_amount_label",
+    "defaultMessage": "Min Amount"
+  },
+  {
+    "id": "create_offer.buy_input_max_amount_label",
+    "defaultMessage": "Max Amount"
+  },
+  {
+    "id": "create_offer.buy_input_confirmation_time_frame_label",
+    "defaultMessage": "Time Frame"
+  },
+  {
+    "id": "create_offer.buy_input_confirmation_time_frame_extra",
+    "defaultMessage": "Indicates the amount of time in {minutes} you will be able make their payment. The trade will automatically be canceled if you have not clicked {confirmed} button before the above payment window expires."
+  },
+  {
+    "id": "common.buy_mark_as_paid",
+    "defaultMessage": "Mark as Paid"
+  },
+  {
+    "id": "create_offer.buy_about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "create_offer.buy_margin_information",
+    "defaultMessage": "Sellers often look for the best value and great vendor ratings. Choose a margin that you think your target seller will find attractive. Here, you can set your exact offers limits, and advanced options."
+  }
+]

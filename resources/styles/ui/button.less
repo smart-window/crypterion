@@ -1,0 +1,768 @@
+/*Button Styles*/
+.ant-btn {
+  line-height: @btn-height-base - 2px;
+
+  &-sm {
+    line-height: @btn-height-sm;
+
+    .ant-btn-group > & {
+      line-height: @btn-height-sm;
+    }
+  }
+
+  & > i, & > span {
+    display: inline;
+  }
+
+  & > i {
+    font-size: 1rem;
+  }
+
+  &-lg {
+    line-height: @btn-height-lg;
+
+    .ant-btn-group > & {
+      line-height: @btn-height-lg;
+    }
+  }
+
+  &:not(:last-child) {
+    margin-right: 15px;
+
+    @media screen and (max-width: @screen-xs-max) {
+      margin-right: 10px;
+    }
+
+    .ant-btn-group &,
+    .ant-transfer-operation & {
+      margin-right: 0;
+    }
+
+    .@{class-prefix}-product-footer & {
+      @media (max-width: (@screen-xxl-min - 1px)) {
+        margin-right: 6px;
+      }
+    }
+  }
+
+  @media screen and (max-width: @screen-xs-max) {
+    margin-bottom: 10px;
+  }
+
+  .ant-input-search & {
+    margin-bottom: 0;
+  }
+
+  .@{class-prefix}-module-add-task & {
+    height: @btn-height-lg - 4px;
+
+    & .icon:before, & .la:before {
+      position: relative;
+      top: 2px;
+    }
+  }
+
+  .ant-modal-footer &,
+  .ant-modal-confirm-btns & {
+    margin-bottom: 0;
+  }
+
+  //.@{class-prefix}-login-content & {
+  //  padding: 9px 20px !important;
+  //  height: auto;
+  //  line-height: 1;
+  //}
+
+  .ant-btn-group & {
+    .boxed-layout & {
+      padding: 0 @padding-md - 4px;
+    }
+
+    @media (max-width: (@screen-xl-min + 166px)) {
+      padding: 0 @padding-md - 4px;
+    }
+  }
+
+  .@{class-prefix}-product-footer & {
+    @media (max-width: (@screen-xl-min + 166px)) {
+      padding: 0 10px;
+      height: 32px;
+      font-size: 12px;
+      line-height: 32px;
+    }
+  }
+}
+
+.ant-btn-background-ghost {
+  &.ant-btn-primary {
+    border-color: @primary-color !important;
+    color: @primary-color !important;
+
+    &:hover,
+    &:focus {
+      background-color: @primary-color !important;
+      border-color: @primary-color !important;
+      color: @white-color !important;
+    }
+  }
+}
+
+.ant-btn-group {
+  &:not(:last-child) {
+    margin-right: 15px;
+
+    @media screen and (max-width: @screen-xs-max) {
+      margin-right: 10px;
+    }
+  }
+}
+
+.ant-radio-group {
+  & .ant-radio-button-wrapper {
+    margin-bottom: 6px;
+  }
+}
+
+button {
+  outline: none;
+}
+
+.ant-confirm .ant-confirm-btns button + button {
+  margin-bottom: 8px;
+}
+
+.ant-modal.ant-confirm .ant-confirm-btns button + button,
+.ant-modal.ant-confirm .ant-btn {
+  margin-bottom: 0;
+}
+
+.@{class-prefix}-btn,
+.btn {
+  display: inline-block;
+  font-weight: @btn-font-weight;
+  color: @btn-default-color;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: @border-style-base @border-width-base @btn-default-border;
+  padding: @btn-padding-base;
+  height: @btn-height-base;
+  font-size: @font-size-base;
+  line-height: @btn-height-base - 2px;
+  border-radius: @border-radius-sm;
+  margin-bottom: 15px;
+
+  &:not(:last-child) {
+    margin-right: 15px;
+
+    @media screen and (max-width: @screen-xs-max) {
+      margin-right: 10px;
+    }
+  }
+
+  @media screen and (max-width: @screen-xs-max) {
+    margin-bottom: 10px;
+  }
+
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:focus,
+  &.focus {
+    outline: 0;
+  }
+
+  &.disabled,
+  &:disabled {
+    opacity: 0.65;
+  }
+
+  &:not([disabled]):not(.disabled) {
+    cursor: pointer;
+  }
+
+  .@{class-prefix}-btn-list & {
+    margin-bottom: 6px;
+  }
+
+  .@{class-prefix}-sub-popover & {
+    border: 0 none;
+    margin-bottom: 5px;
+
+    &:focus,
+    &:hover {
+      background-color: @grey-3;
+    }
+
+    &:not(:last-child) {
+      margin-right: 5px;
+    }
+  }
+
+  //.@{class-prefix}-login-content & {
+  //  padding: 9px 20px !important;
+  //  height: auto;
+  //  line-height: 1;
+  //}
+}
+
+.@{class-prefix}-btn-block {
+  display: block;
+  width: 100%;
+}
+
+a.@{class-prefix}-btn.disabled,
+fieldset[disabled] a.@{class-prefix}-btn {
+  pointer-events: none;
+}
+
+.@{class-prefix}-btn-rounded {
+  border-radius: 50px !important;
+}
+
+.@{class-prefix}-btn-link {
+  font-size: @font-size-base;
+  font-weight: @btn-font-weight;
+  color: @primary-color;
+  background-color: transparent;
+
+  &:hover {
+    color: @primary-color;
+    text-decoration: underline;
+    background-color: transparent;
+    border-color: transparent;
+  }
+
+  &:focus,
+  &.focus {
+    text-decoration: underline;
+    border-color: transparent;
+  }
+
+  &:disabled,
+  &.disabled {
+    color: @grey-6;
+  }
+}
+
+.@{class-prefix}-btn-lg,
+.@{class-prefix}-btn-group-lg > .@{class-prefix}-btn {
+  padding: @btn-padding-lg;
+  font-size: @btn-font-size-lg;
+  line-height: @btn-height-lg;
+  border-radius: 6px;
+  height: @btn-height-lg;
+}
+
+.@{class-prefix}-btn-sm,
+.@{class-prefix}-btn-group-sm > .@{class-prefix}-btn {
+  padding: @btn-padding-sm;
+  font-size: @btn-font-size-sm;
+  line-height: @btn-height-sm;
+  border-radius: 2px;
+  height: @btn-height-sm;
+}
+
+.@{class-prefix}-btn-xs {
+  font-size: @btn-font-size-xs;
+  padding: @btn-padding-xs;
+  height: @btn-height-base - 10px;
+  line-height: @btn-height-base - 11px;
+}
+
+.@{class-prefix}-btn-block {
+  display: block;
+  width: 100%;
+
+  & + & {
+    margin-top: 0.5rem;
+  }
+}
+
+.@{class-prefix}-icon-btn {
+  min-width: @size-40;
+  min-height: @size-40;
+  border-radius: 2px;
+  .flex-display(flex, row, wrap);
+  .justify-content(center);
+  .align-items(center);
+  cursor: pointer;
+
+  &:focus,
+  &:hover {
+    background-color: fade(@black-color, 10%);
+
+    .@{class-prefix}-layout-sider-dark & {
+      background-color: @nav-dark-bg;
+    }
+  }
+
+  .@{class-prefix}-popover-header & {
+    width: @size-30;
+    height: @size-30;
+  }
+
+  & .icon-star-o:before,
+  & .icon-star:before {
+    position: relative;
+    top: 3px;
+  }
+
+  &.icon, &.la {
+    .@{class-prefix}-module-box-content & {
+      @media screen and (max-width: @screen-xs-max) {
+        font-size: 16px;
+      }
+    }
+  }
+
+  &.la {
+    .@{class-prefix}-module-box-content & {
+      @media screen and (max-width: @screen-xs-max) {
+        font-size: 20px;
+      }
+    }
+  }
+}
+
+.@{class-prefix}-radio-group-link {
+  &.ant-radio-group {
+    & .ant-radio-button-wrapper {
+      height: @btn-height-sm;
+      line-height: @btn-height-sm;
+      border: 0 none;
+      border-radius: 2px;
+      margin-left: 0;
+
+      &.ant-radio-button-wrapper-checked {
+        background-color: @primary-color;
+        color: @white-color;
+      }
+    }
+
+    & .ant-radio-button-wrapper:not(:first-child)::before {
+      display: none;
+    }
+  }
+
+  &-news {
+    @media screen and (max-width: @screen-xs-max) {
+      .flex-display(flex, row, wrap);
+    }
+  }
+
+  & .ant-radio-button-wrapper {
+    @media screen and (max-width: @screen-xs-max) {
+      padding: 0 8px;
+    }
+  }
+}
+
+.@{class-prefix}-radio-group-link-bg-light {
+  margin-left: -5px;
+  margin-right: -5px;
+
+  &.ant-radio-group {
+    & .ant-radio-button-wrapper {
+      padding: 0 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+      background-color: @grey-4;
+
+      &.ant-radio-button-wrapper-checked {
+        background-color: @primary-color;
+        color: @white-color;
+      }
+    }
+
+    & .ant-radio-button-wrapper:not(:first-child)::before {
+      display: none;
+    }
+  }
+}
+
+
+ //Crypterion
+
+@custom-btn-primary-bg-light: ~`colorPalette('@{btn-primary-bg}', 5) `;
+@custom-btn-primary-bg-medium: ~`colorPalette('@{btn-primary-bg}', 7) `;
+
+.@{btn-prefix-cls} {
+  color: @btn-default-color;
+  background-color: @btn-default-bg;
+  border-color: @btn-default-border;
+  // a inside Button which only work in Chrome
+  // http://stackoverflow.com/a/17253457
+  > a:only-child {
+    color: currentColor;
+    &::after {
+      background: transparent;
+    }
+  }
+
+  &:hover,
+  &:focus {
+    color:  @custom-btn-primary-bg-light;
+    background-color: @btn-default-bg;
+    border-color:  @custom-btn-primary-bg-light;
+    // a inside Button which only work in Chrome
+    // http://stackoverflow.com/a/17253457
+    > a:only-child {
+      color: currentColor;
+      &::after {
+        background: transparent;
+      }
+    }
+  }
+  &:active,
+  &.active {
+    color:  @custom-btn-primary-bg-medium;
+    background-color: @btn-default-bg;
+    border-color:  @custom-btn-primary-bg-medium;
+    // a inside Button which only work in Chrome
+    // http://stackoverflow.com/a/17253457
+    > a:only-child {
+      color: currentColor;
+      &::after {
+        background: transparent;
+      }
+    }
+  }
+
+  &-disabled,
+  &.disabled,
+  &[disabled] {
+    &,
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: @btn-default-color;
+      background-color: @btn-disable-bg;
+      border-color: @btn-disable-border;
+
+      > a:only-child {
+        color: currentColor;
+
+        &::after {
+          background: transparent;
+        }
+      }
+
+      text-shadow: none;
+      box-shadow: none;
+    }
+  }
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    text-decoration: none;
+    background: @btn-default-bg;
+  }
+
+  // Primary Button
+  &-primary {
+    text-shadow: @btn-text-shadow;
+    box-shadow: @btn-primary-shadow;
+    color: @btn-primary-color;
+    background-color: @btn-primary-bg;
+    border-color: @btn-primary-bg;
+
+    > a:only-child {
+      color: currentColor;
+
+      &::after {
+        background: transparent;
+      }
+    }
+
+
+    &:hover,
+    &:focus {
+      text-shadow: @btn-text-shadow;
+      box-shadow: @btn-primary-shadow;
+      color: @btn-primary-color;
+      background-color: @custom-btn-primary-bg-light;
+      border-color: @custom-btn-primary-bg-light;
+
+      > a:only-child {
+        color: currentColor;
+
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &:active,
+    &.active {
+      text-shadow: @btn-text-shadow;
+      box-shadow: @btn-primary-shadow;
+      color: @btn-primary-color;
+      background-color: @custom-btn-primary-bg-medium;
+      border-color: @custom-btn-primary-bg-medium;
+
+      > a:only-child {
+        color: currentColor;
+
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &-disabled,
+    &.disabled,
+    &[disabled] {
+      &,
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        color: @btn-primary-color;
+        background-color: @btn-disable-bg;
+        border-color: @btn-disable-border;
+
+        > a:only-child {
+          color: currentColor;
+
+          &::after {
+            background: transparent;
+          }
+        }
+
+        text-shadow: none;
+        box-shadow: none;
+      }
+    }
+  }
+
+  // Danger Button
+  &-danger {
+    text-shadow: @btn-text-shadow;
+    box-shadow: @btn-primary-shadow;
+    color: @btn-danger-color;
+    background-color: @btn-danger-bg;
+    border-color: @btn-danger-bg;
+
+    > a:only-child {
+      color: currentColor;
+
+      &::after {
+        background: transparent;
+      }
+    }
+
+
+    &:hover,
+    &:focus {
+      text-shadow: @btn-text-shadow;
+      box-shadow: @btn-primary-shadow;
+      color: @btn-danger-color;
+      background-color: @custom-btn-primary-bg-light;
+      border-color: @custom-btn-primary-bg-light;
+
+      > a:only-child {
+        color: currentColor;
+
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &:active,
+    &.active {
+      text-shadow: @btn-text-shadow;
+      box-shadow: @btn-primary-shadow;
+      color: @btn-danger-color;
+      background-color: @custom-btn-primary-bg-medium;
+      border-color: @custom-btn-primary-bg-medium;
+
+      > a:only-child {
+        color: currentColor;
+
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &-disabled,
+    &.disabled,
+    &[disabled] {
+      &,
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        color: @btn-danger-color;
+        background-color: @btn-disable-bg;
+        border-color: @btn-disable-border;
+
+        > a:only-child {
+          color: currentColor;
+
+          &::after {
+            background: transparent;
+          }
+        }
+
+        text-shadow: none;
+        box-shadow: none;
+      }
+    }
+  }
+
+
+  // Ghost Button
+  &-ghost {
+    color: @btn-ghost-color;
+    background-color: @btn-ghost-bg;
+    border-color: @btn-ghost-border;
+    // a inside Button which only work in Chrome
+    // http://stackoverflow.com/a/17253457
+    > a:only-child {
+      color: currentColor;
+      &::after {
+        background: transparent;
+      }
+    }
+
+    &:hover,
+    &:focus {
+      color:  @custom-btn-primary-bg-light;
+      background-color: @btn-ghost-bg;
+      border-color:  @custom-btn-primary-bg-light;
+      // a inside Button which only work in Chrome
+      // http://stackoverflow.com/a/17253457
+      > a:only-child {
+        color: currentColor;
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+    &:active,
+    &.active {
+      color:  @custom-btn-primary-bg-medium;
+      background-color: @btn-ghost-bg;
+      border-color:  @custom-btn-primary-bg-medium;
+      // a inside Button which only work in Chrome
+      // http://stackoverflow.com/a/17253457
+      > a:only-child {
+        color: currentColor;
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &-disabled,
+    &.disabled,
+    &[disabled] {
+      &,
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        color: @btn-ghost-color;
+        background-color: @btn-disable-bg;
+        border-color: @btn-disable-border;
+
+        > a:only-child {
+          color: currentColor;
+
+          &::after {
+            background: transparent;
+          }
+        }
+
+        text-shadow: none;
+        box-shadow: none;
+      }
+    }
+  }
+
+  &-dashed {
+    border-style: dashed;
+  }
+
+  &-link {
+    color: @link-color;
+    background-color: transparent;
+    border-color: transparent;
+    // a inside Button which only work in Chrome
+    // http://stackoverflow.com/a/17253457
+    > a:only-child {
+      color: currentColor;
+      &::after {
+        background: transparent;
+      }
+    }
+
+    &:hover,
+    &:focus {
+      color:  @custom-btn-primary-bg-light;
+      background-color: transparent;
+      border-color:  @custom-btn-primary-bg-light;
+      // a inside Button which only work in Chrome
+      // http://stackoverflow.com/a/17253457
+      > a:only-child {
+        color: currentColor;
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+    &:active,
+    &.active {
+      color:  @custom-btn-primary-bg-medium;
+      background-color: transparent;
+      border-color:  @custom-btn-primary-bg-medium;
+      // a inside Button which only work in Chrome
+      // http://stackoverflow.com/a/17253457
+      > a:only-child {
+        color: currentColor;
+        &::after {
+          background: transparent;
+        }
+      }
+    }
+
+    &-disabled,
+    &.disabled,
+    &[disabled] {
+      &,
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        color: @disabled-color;
+        background-color: transparent;
+        border-color: transparent;
+
+        > a:only-child {
+          color: currentColor;
+
+          &::after {
+            background: transparent;
+          }
+        }
+
+        text-shadow: none;
+        box-shadow: none;
+      }
+    }
+    box-shadow: none;
+    &:hover,
+    &:focus,
+    &:active {
+      border-color: transparent;
+    }
+  }
+}

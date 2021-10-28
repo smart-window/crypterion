@@ -1,0 +1,26 @@
+[
+  {
+    "id": "common.trades",
+    "defaultMessage": "Trades"
+  },
+  {
+    "id": "common.offers",
+    "defaultMessage": "Offers"
+  },
+  {
+    "id": "common.my_offers",
+    "defaultMessage": "My Offers"
+  },
+  {
+    "id": "common.add_to_contacts",
+    "defaultMessage": "Add to Contacts"
+  },
+  {
+    "id": "common.remove_from_contacts",
+    "defaultMessage": "Remove from Contacts"
+  },
+  {
+    "id": "common.settings",
+    "defaultMessage": "Settings"
+  }
+]

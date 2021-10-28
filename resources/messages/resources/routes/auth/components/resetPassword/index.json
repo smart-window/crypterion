@@ -1,0 +1,14 @@
+[
+  {
+    "id": "reset_password.successful",
+    "defaultMessage": "Password changed Successfully."
+  },
+  {
+    "id": "reset_password.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "reset_password.verify_password",
+    "defaultMessage": "Verify Password"
+  }
+]

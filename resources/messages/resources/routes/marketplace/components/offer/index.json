@@ -1,0 +1,10 @@
+[
+  {
+    "id": "offer.start_trade_action_successful",
+    "defaultMessage": "Trade started successfully!"
+  },
+  {
+    "id": "meta.title.marketplace_offer",
+    "defaultMessage": "{title} | {name}"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin.customize.template",
+    "defaultMessage": "Template"
+  },
+  {
+    "id": "admin.customize.template_info",
+    "defaultMessage": "Some customizations require reloading to effect changes. You should make changes while considering users experience!"
+  },
+  {
+    "id": "common.theme",
+    "defaultMessage": "Theme"
+  },
+  {
+    "id": "theme.lite",
+    "defaultMessage": "Lite"
+  },
+  {
+    "id": "theme.semi_dark",
+    "defaultMessage": "Semi Dark"
+  },
+  {
+    "id": "theme.dark",
+    "defaultMessage": "Dark"
+  },
+  {
+    "id": "admin.color_palettes",
+    "defaultMessage": "Color Palettes"
+  },
+  {
+    "id": "admin.nav_style",
+    "defaultMessage": "Nav Style"
+  },
+  {
+    "id": "admin.layout_type",
+    "defaultMessage": "Layout Type"
+  }
+]

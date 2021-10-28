@@ -1,0 +1,14 @@
+[
+  {
+    "id": "widget.authentication.title",
+    "defaultMessage": "Secure Escrow Trading"
+  },
+  {
+    "id": "widget.authentication.body",
+    "defaultMessage": "Join the peer-to-peer finance revolution. The {name} Marketplace is here to radically transform the way you spend money. Use hundreds of different payment methods to buy and sell bitcoin."
+  },
+  {
+    "id": "widget.authentication.button_content",
+    "defaultMessage": "Register Now"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "profile.contacts.search_users_placeholder",
+    "defaultMessage": "Search users..."
+  },
+  {
+    "id": "profile.contacts.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "profile.contacts.choose_date_placeholder",
+    "defaultMessage": "Choose date..."
+  },
+  {
+    "id": "profile.contacts.invalid_input_message",
+    "defaultMessage": "You input was invalid, please try again!"
+  },
+  {
+    "id": "meta.title.profile_contacts",
+    "defaultMessage": "Contacts - Profile | {name}"
+  }
+]

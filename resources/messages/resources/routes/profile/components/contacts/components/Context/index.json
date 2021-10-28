@@ -1,0 +1,22 @@
+[
+  {
+    "id": "profile.trust",
+    "defaultMessage": "Trust"
+  },
+  {
+    "id": "profile.untrust",
+    "defaultMessage": "Untrust"
+  },
+  {
+    "id": "profile.block",
+    "defaultMessage": "Block"
+  },
+  {
+    "id": "profile.unblock",
+    "defaultMessage": "Unblock"
+  },
+  {
+    "id": "common.delete",
+    "defaultMessage": "Delete"
+  }
+]

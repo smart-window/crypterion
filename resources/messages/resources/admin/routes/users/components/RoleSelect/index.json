@@ -1,0 +1,18 @@
+[
+  {
+    "id": "common.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "common.submit",
+    "defaultMessage": "Submit"
+  },
+  {
+    "id": "admin.users.invalid_role_select_message",
+    "defaultMessage": "Please select at least one user role."
+  },
+  {
+    "id": "admin.users.role_select_placeholder",
+    "defaultMessage": "Select roles..."
+  }
+]

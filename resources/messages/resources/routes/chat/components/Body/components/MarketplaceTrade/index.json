@@ -1,0 +1,18 @@
+[
+  {
+    "id": "chats.marketplace_approved_successful",
+    "defaultMessage": "Trade has been approved."
+  },
+  {
+    "id": "chats.marketplace_disputed_successful",
+    "defaultMessage": "A moderator will be in touch soon."
+  },
+  {
+    "id": "chats.marketplace_cancelled_successful",
+    "defaultMessage": "Trade has been cancelled."
+  },
+  {
+    "id": "chats.marketplace_confirmed_successful",
+    "defaultMessage": "Trade has been marked as paid."
+  }
+]

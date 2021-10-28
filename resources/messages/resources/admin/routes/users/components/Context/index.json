@@ -1,0 +1,26 @@
+[
+  {
+    "id": "common.activate",
+    "defaultMessage": "Activate"
+  },
+  {
+    "id": "common.deactivate",
+    "defaultMessage": "Deactivate"
+  },
+  {
+    "id": "common.delete",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "admin.change_role",
+    "defaultMessage": "Change Role"
+  },
+  {
+    "id": "admin.users.specify_expiry_date",
+    "defaultMessage": "Specify Expiry Date"
+  },
+  {
+    "id": "admin.users.select_roles",
+    "defaultMessage": "Select Roles"
+  }
+]

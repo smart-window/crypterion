@@ -1,0 +1,22 @@
+[
+  {
+    "id": "failed_jobs.queue",
+    "defaultMessage": "Queue"
+  },
+  {
+    "id": "failed_jobs.exception",
+    "defaultMessage": "Exception"
+  },
+  {
+    "id": "failed_jobs.failed_at",
+    "defaultMessage": "Failed At"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "admin.widget.failed_jobs",
+    "defaultMessage": "Failed Jobs"
+  }
+]

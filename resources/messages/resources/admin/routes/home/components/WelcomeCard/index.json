@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "admin.settings",
+    "defaultMessage": "Settings"
+  }
+]

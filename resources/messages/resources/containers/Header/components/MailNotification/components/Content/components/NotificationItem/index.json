@@ -1,0 +1,10 @@
+[
+  {
+    "id": "chats.message_deleted",
+    "defaultMessage": "Message Deleted"
+  },
+  {
+    "id": "common.go_to_chat",
+    "defaultMessage": "Go To Chat"
+  }
+]

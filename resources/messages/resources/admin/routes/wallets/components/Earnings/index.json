@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.wallets.wallet",
+    "defaultMessage": "Wallet"
+  },
+  {
+    "id": "admin.wallets.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "admin.wallets.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "admin.wallets.recipient",
+    "defaultMessage": "Recipient"
+  },
+  {
+    "id": "admin.wallets.marketplace_earnings",
+    "defaultMessage": "Marketplace Earnings"
+  }
+]

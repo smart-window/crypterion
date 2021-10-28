@@ -1,0 +1,30 @@
+[
+  {
+    "id": "installer.license_verification",
+    "defaultMessage": "License Verification"
+  },
+  {
+    "id": "installer.purchase_code",
+    "defaultMessage": "Purchase Code"
+  },
+  {
+    "id": "installer.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "installer.verify",
+    "defaultMessage": "Verify"
+  },
+  {
+    "id": "installer.about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "installer.license_information",
+    "defaultMessage": "Welcome to {app} installer. We attempt to verify your license code against your email and your domain. The license is registered with this domain at the final stage of this installation after which you will only be able to reinstall on this domain in the future."
+  },
+  {
+    "id": "installer.documentation",
+    "defaultMessage": "Documentation"
+  }
+]

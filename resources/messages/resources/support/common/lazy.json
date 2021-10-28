@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.something_went_wrong",
+    "defaultMessage": "Oops! Something went wrong..."
+  },
+  {
+    "id": "common.refresh_to_try_again",
+    "defaultMessage": "Please, refresh to try again."
+  }
+]

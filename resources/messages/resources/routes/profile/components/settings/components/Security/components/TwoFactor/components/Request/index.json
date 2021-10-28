@@ -1,0 +1,14 @@
+[
+  {
+    "id": "profile.input_two_factor_code_placeholder",
+    "defaultMessage": "Enter two factor code..."
+  },
+  {
+    "id": "profile.input_password_placeholder",
+    "defaultMessage": "Enter your password..."
+  },
+  {
+    "id": "profile.two_factor_request_action_successful",
+    "defaultMessage": "Your action was successful."
+  }
+]

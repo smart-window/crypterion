@@ -1,0 +1,30 @@
+[
+  {
+    "id": "create_offer.sell_offer_information",
+    "defaultMessage": "Offer Information"
+  },
+  {
+    "id": "create_offer.sell_summary_wallet_account_information",
+    "defaultMessage": "You are selling from your {wallet} account"
+  },
+  {
+    "id": "create_offer.sell_summary_payment_method_information",
+    "defaultMessage": "You want to get paid with {method}"
+  },
+  {
+    "id": "create_offer.sell_summary_escrow_fee_information",
+    "defaultMessage": "The escrow fee for your selected payment method is {fee}%"
+  },
+  {
+    "id": "create_offer.sell_summary_currency_information",
+    "defaultMessage": "Your preferred currency of trade is {currency}"
+  },
+  {
+    "id": "create_offer.sell_summary_minimum_amount_information",
+    "defaultMessage": "You accept trade starting from {minimum}!"
+  },
+  {
+    "id": "create_offer.sell_summary_amount_range_information",
+    "defaultMessage": "You accept trade between {minimum} and {maximum}!"
+  }
+]

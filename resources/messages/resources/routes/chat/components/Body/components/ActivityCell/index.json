@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.unknown_user",
+    "defaultMessage": "Unknown User"
+  },
+  {
+    "id": "chat.activity_body",
+    "defaultMessage": "{user} {body} {time}"
+  }
+]

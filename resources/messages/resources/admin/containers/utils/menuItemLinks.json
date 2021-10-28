@@ -1,0 +1,70 @@
+[
+  {
+    "id": "common.home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "common.users",
+    "defaultMessage": "Users"
+  },
+  {
+    "id": "common.roles",
+    "defaultMessage": "Roles"
+  },
+  {
+    "id": "common.wallets",
+    "defaultMessage": "Wallets"
+  },
+  {
+    "id": "common.settings",
+    "defaultMessage": "Settings"
+  },
+  {
+    "id": "admin.configuration",
+    "defaultMessage": "Configuration"
+  },
+  {
+    "id": "admin.marketplace",
+    "defaultMessage": "Marketplace"
+  },
+  {
+    "id": "common.notification",
+    "defaultMessage": "Notification"
+  },
+  {
+    "id": "common.platform",
+    "defaultMessage": "Platform"
+  },
+  {
+    "id": "admin.customize",
+    "defaultMessage": "Customize"
+  },
+  {
+    "id": "admin.translation",
+    "defaultMessage": "Translation"
+  },
+  {
+    "id": "admin.edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "admin.integration",
+    "defaultMessage": "Integration"
+  },
+  {
+    "id": "admin.help",
+    "defaultMessage": "Help"
+  },
+  {
+    "id": "admin.update",
+    "defaultMessage": "Update"
+  },
+  {
+    "id": "admin.documentation",
+    "defaultMessage": "Documentation"
+  },
+  {
+    "id": "admin.about",
+    "defaultMessage": "About"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "profile.preference_action_successful",
+    "defaultMessage": "Your preference was updated successfully!"
+  },
+  {
+    "id": "profile.select_currency_placeholder",
+    "defaultMessage": "Enter your currency..."
+  }
+]

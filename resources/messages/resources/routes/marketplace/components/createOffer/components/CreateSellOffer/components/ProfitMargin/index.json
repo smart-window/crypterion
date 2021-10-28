@@ -1,0 +1,50 @@
+[
+  {
+    "id": "create_offer.sell_input_margin_label",
+    "defaultMessage": "Margin"
+  },
+  {
+    "id": "create_offer.sell_input_margin_extra",
+    "defaultMessage": "The current market price is {marketPrice} while this offer will be sold for {price}"
+  },
+  {
+    "id": "create_offer.sell_input_min_amount_label",
+    "defaultMessage": "Min Amount"
+  },
+  {
+    "id": "create_offer.sell_input_max_amount_label",
+    "defaultMessage": "Max Amount"
+  },
+  {
+    "id": "create_offer.sell_input_confirmation_time_frame_label",
+    "defaultMessage": "Time Frame"
+  },
+  {
+    "id": "create_offer.sell_input_confirmation_time_frame_extra",
+    "defaultMessage": "Indicates the amount of time in {minutes} your buyer has to make their payment. The trade will automatically be canceled if the buyer has not clicked {confirmed} before the payment window expires."
+  },
+  {
+    "id": "common.sell_mark_as_paid",
+    "defaultMessage": "Mark as Paid"
+  },
+  {
+    "id": "create_offer.sell_about_page",
+    "defaultMessage": "About this page"
+  },
+  {
+    "id": "create_offer.sell_margin_information",
+    "defaultMessage": "Buyers often look for the best value and great vendor ratings. Choose a margin that you think your target buyers will find attractive. Here, you can set your exact offers limits, and advanced options."
+  },
+  {
+    "id": "create_offer.sell_offer_visibility_info",
+    "defaultMessage": "Your offer will not be shown to the public unless you comply with the following:"
+  },
+  {
+    "id": "create_offer.sell_offer_visibility_max_amount_requirement",
+    "defaultMessage": "Your wallet account has at least {maximum} available, which is the maximum amount of your offer!"
+  },
+  {
+    "id": "create_offer.sell_offer_visibility_min_amount_requirement",
+    "defaultMessage": "Your wallet account has at least {minimum} available, which is the minimum amount of your offer!"
+  }
+]

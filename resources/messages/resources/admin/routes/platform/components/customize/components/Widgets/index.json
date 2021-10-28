@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.user_home",
+    "defaultMessage": "User Home"
+  },
+  {
+    "id": "admin.admin_home",
+    "defaultMessage": "Admin Home"
+  }
+]

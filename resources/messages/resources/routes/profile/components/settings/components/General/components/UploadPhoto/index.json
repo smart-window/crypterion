@@ -1,0 +1,10 @@
+[
+  {
+    "id": "profile.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "profile.invalid_picture_type",
+    "defaultMessage": "You can only upload JPG/PNG file!"
+  }
+]

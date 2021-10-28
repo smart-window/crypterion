@@ -1,0 +1,26 @@
+[
+  {
+    "id": "filter_result.select_country_placeholder",
+    "defaultMessage": "Select country..."
+  },
+  {
+    "id": "filter_result.select_coin_placeholder",
+    "defaultMessage": "Select coin..."
+  },
+  {
+    "id": "filter_result.select_currency_placeholder",
+    "defaultMessage": "Select currency..."
+  },
+  {
+    "id": "filter_result.select_payment_method_placeholder",
+    "defaultMessage": "Select payment method..."
+  },
+  {
+    "id": "filter_result.select_tags_placeholder",
+    "defaultMessage": "Filter by tags..."
+  },
+  {
+    "id": "filter_result.input_amount_placeholder",
+    "defaultMessage": "Filter by amount..."
+  }
+]

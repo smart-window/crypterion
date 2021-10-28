@@ -1,0 +1,14 @@
+[
+  {
+    "id": "widget.user_registrations_chart.date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "widget.user_registrations_chart.month",
+    "defaultMessage": "Month"
+  },
+  {
+    "id": "widget.user_registrations_chart.total",
+    "defaultMessage": "Total"
+  }
+]

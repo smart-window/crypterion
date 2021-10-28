@@ -1,0 +1,34 @@
+[
+  {
+    "id": "common.coin",
+    "defaultMessage": "Coin"
+  },
+  {
+    "id": "common.amount",
+    "defaultMessage": "Amount"
+  },
+  {
+    "id": "common.seller",
+    "defaultMessage": "Seller"
+  },
+  {
+    "id": "common.buyer",
+    "defaultMessage": "Buyer"
+  },
+  {
+    "id": "common.payment_method",
+    "defaultMessage": "Payment Method"
+  },
+  {
+    "id": "common.payment_method_description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "common.action",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "home.widget.active_trades",
+    "defaultMessage": "Active Trades"
+  }
+]

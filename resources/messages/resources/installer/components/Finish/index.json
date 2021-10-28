@@ -1,0 +1,10 @@
+[
+  {
+    "id": "installer.installation_successful",
+    "defaultMessage": "Installation Successful"
+  },
+  {
+    "id": "installer.start",
+    "defaultMessage": "Start"
+  }
+]

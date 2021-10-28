@@ -1,0 +1,14 @@
+[
+  {
+    "id": "common.popconfirm_title",
+    "defaultMessage": "Are you sure?"
+  },
+  {
+    "id": "common.no",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "common.yes",
+    "defaultMessage": "Yes"
+  }
+]

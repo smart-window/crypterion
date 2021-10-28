@@ -1,0 +1,22 @@
+[
+  {
+    "id": "admin.auth.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "admin.auth.login_successful",
+    "defaultMessage": "Login Successful."
+  },
+  {
+    "id": "admin.auth.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "admin.auth.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "admin.auth.two_factor_token",
+    "defaultMessage": "Two Factor Token"
+  }
+]

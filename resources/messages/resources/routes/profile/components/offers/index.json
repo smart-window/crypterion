@@ -1,0 +1,10 @@
+[
+  {
+    "id": "profile.offers.action_successful",
+    "defaultMessage": "Your action was successful."
+  },
+  {
+    "id": "meta.title.profile_offers",
+    "defaultMessage": "{user}'s Offers - Profile | {name}"
+  }
+]

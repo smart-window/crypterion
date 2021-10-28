@@ -1,0 +1,134 @@
+[
+  {
+    "id": "form.validation.default",
+    "defaultMessage": "Validation error on field %s"
+  },
+  {
+    "id": "form.validation.required",
+    "defaultMessage": "%s is required"
+  },
+  {
+    "id": "form.validation.enum",
+    "defaultMessage": "%s must be one of %s"
+  },
+  {
+    "id": "form.validation.whitespace",
+    "defaultMessage": "%s cannot be empty"
+  },
+  {
+    "id": "form.validation.date.format",
+    "defaultMessage": "%s date %s is invalid for format %s"
+  },
+  {
+    "id": "form.validation.date.parse",
+    "defaultMessage": "%s date could not be parsed, %s is invalid"
+  },
+  {
+    "id": "form.validation.date.invalid",
+    "defaultMessage": "%s date %s is invalid"
+  },
+  {
+    "id": "form.validation.types.string",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.method",
+    "defaultMessage": "%s is not a %s (function)"
+  },
+  {
+    "id": "form.validation.types.array",
+    "defaultMessage": "%s is not an %s"
+  },
+  {
+    "id": "form.validation.types.object",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.number",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.date",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.boolean",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.integer",
+    "defaultMessage": "%s is not an %s"
+  },
+  {
+    "id": "form.validation.types.float",
+    "defaultMessage": "%s is not a %s"
+  },
+  {
+    "id": "form.validation.types.regexp",
+    "defaultMessage": "%s is not a valid %s"
+  },
+  {
+    "id": "form.validation.types.email",
+    "defaultMessage": "%s is not a valid %s"
+  },
+  {
+    "id": "form.validation.types.url",
+    "defaultMessage": "%s is not a valid %s"
+  },
+  {
+    "id": "form.validation.types.hex",
+    "defaultMessage": "%s is not a valid %s"
+  },
+  {
+    "id": "form.validation.string.len",
+    "defaultMessage": "%s must be exactly %s characters"
+  },
+  {
+    "id": "form.validation.string.min",
+    "defaultMessage": "%s must be at least %s characters"
+  },
+  {
+    "id": "form.validation.string.max",
+    "defaultMessage": "%s cannot be longer than %s characters"
+  },
+  {
+    "id": "form.validation.string.range",
+    "defaultMessage": "%s must be between %s and %s characters"
+  },
+  {
+    "id": "form.validation.number.len",
+    "defaultMessage": "%s must equal %s"
+  },
+  {
+    "id": "form.validation.number.min",
+    "defaultMessage": "%s cannot be less than %s"
+  },
+  {
+    "id": "form.validation.number.max",
+    "defaultMessage": "%s cannot be greater than %s"
+  },
+  {
+    "id": "form.validation.number.range",
+    "defaultMessage": "%s must be between %s and %s"
+  },
+  {
+    "id": "form.validation.array.len",
+    "defaultMessage": "%s must be exactly %s in length"
+  },
+  {
+    "id": "form.validation.array.min",
+    "defaultMessage": "%s cannot be less than %s in length"
+  },
+  {
+    "id": "form.validation.array.max",
+    "defaultMessage": "%s cannot be greater than %s in length"
+  },
+  {
+    "id": "form.validation.array.range",
+    "defaultMessage": "%s must be between %s and %s in length"
+  },
+  {
+    "id": "form.validation.pattern.mismatch",
+    "defaultMessage": "%s value %s does not match pattern %s"
+  }
+]

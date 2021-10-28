@@ -1,0 +1,14 @@
+[
+  {
+    "id": "admin.translation.import_action_successful",
+    "defaultMessage": "Translation imported successfully."
+  },
+  {
+    "id": "admin.translation.export_action_successful",
+    "defaultMessage": "Translation exported successfully."
+  },
+  {
+    "id": "admin.translation.action_successful",
+    "defaultMessage": "Your action was successful."
+  }
+]

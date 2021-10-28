@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin.brand.upload_successful",
+    "defaultMessage": "Your upload was successful."
+  },
+  {
+    "id": "admin.brand.invalid_file_type",
+    "defaultMessage": "Invalid file type selected."
+  }
+]

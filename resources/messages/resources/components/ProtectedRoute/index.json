@@ -1,0 +1,10 @@
+[
+  {
+    "id": "common.unauthorized_access",
+    "defaultMessage": "Sorry, you are not authorized to access this page."
+  },
+  {
+    "id": "common.back_home",
+    "defaultMessage": "Back Home"
+  }
+]

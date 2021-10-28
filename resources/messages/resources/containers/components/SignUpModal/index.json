@@ -1,0 +1,26 @@
+[
+  {
+    "id": "auth.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "auth.email",
+    "defaultMessage": "Email"
+  },
+  {
+    "id": "auth.registered_successful",
+    "defaultMessage": "Registered Successfully!"
+  },
+  {
+    "id": "auth.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "auth.verify_password",
+    "defaultMessage": "Verify Password"
+  },
+  {
+    "id": "auth.invalid_username",
+    "defaultMessage": "Invalid username format."
+  }
+]
